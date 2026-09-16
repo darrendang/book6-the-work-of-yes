@@ -49,6 +49,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — voice-conversation decision spine and provenance examples
 - `05_CANON_INTELLECTUAL_SPINE.md` — governing question, Earn the Decision, Avoidance Principle, and premature certainty
+- `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 
 ## Synchronization and authority
 
@@ -66,6 +67,8 @@ This synchronization rule does not by itself make Book 6 a canonical governed no
 
 - GitHub authority/control: `darrendang/book6-the-work-of-yes` (`main`)
 - Google Drive evidence/workspace: `Book6` — folder ID `1wQKd5ruMj4kB2BhJy_OY1Ymzm58Ivp1Q`
+- Google Drive project-control folder: `project-control` — folder ID `1f3SxwHlQQ1MkHcrDqP6S2x_qvWt5AyMB`
+- Google Drive current canonical-state mirror: `BOOK6_CURRENT_CANONICAL_STATE` — document ID `1EpNRkKOgEP5OpHUvDFl3u9-1MMHRRWBSv7ue6SzPN4c`
 - Google Drive primary artifact folder: `artifacts` — folder ID `1ikPWcLNBBQPl_X8yJxHrKVxPuyLoVu-D`
 - Local/Codex workspace convention: `C:\Users\ddang\TheWay\Book6\`
 - OneDrive working/mirror convention: `TheWay\Book6\`
