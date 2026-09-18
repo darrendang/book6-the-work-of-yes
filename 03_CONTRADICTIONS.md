@@ -70,3 +70,22 @@ Every strong example should be tested from the opposite direction:
 - If no looks prudent, ask what assumptions are being treated as facts.
 
 The book should help readers develop judgment between these poles rather than prescribe one pole as universally correct.
+
+
+## Perpetual possibility
+
+The September 18, 2026 HBR convergence adds a third avoidance pattern to test.
+
+Possibility-opening can be constructive because it prevents an easy no from closing the search space prematurely. But continued ideation, experimentation, analysis, or “yes, and” reasoning can also become a way to avoid commitment after sufficient evidence exists.
+
+**Failure mode:** perpetual possibility — refusing closure because continued exploration is easier than deciding.
+
+Test future cases by asking:
+
+- Is another option likely to change the decision materially?
+- What evidence is still genuinely missing?
+- Has inquiry become a substitute for judgment?
+- Is optionality being preserved because it is valuable, or because commitment is uncomfortable?
+- Has the decision already been earned even though the decision-maker has not acted?
+
+This does not make speed inherently superior. The opposite failure remains premature certainty. The work is to know when the search has become sufficient for responsible judgment.

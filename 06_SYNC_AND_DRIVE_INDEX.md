@@ -1,6 +1,6 @@
 # Book 6 — Sync and Google Drive Index
 
-**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-17  
+**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-18  
 **Authority rule:** Memory provides continuity. GitHub determines current state.
 
 This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Codex. It does not itself expand the scope of Book 6 canon, lock a final title, create chapter architecture, authorize publication, or settle Book 6's formal relationship to The Way.
@@ -16,8 +16,10 @@ Current project operating files:
 - `PROJECT_INSTRUCTIONS.md` — full ChatGPT/Book 6 execution overlay
 - `PROJECT_SOURCES.md` — source, privacy, Project Sources, and artifact-routing policy
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — conceptual/provenance canon
-- `05_CANON_INTELLECTUAL_SPINE.md` — governing question/core principle/failure mechanism
+- `05_CANON_INTELLECTUAL_SPINE.md`
+- `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — governing question/core principle/failure mechanism
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
+- `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — external HBR convergence and Book 6 possibility/judgment distinction
 
 GitHub governs the current textual control state for Book 6.
 
@@ -57,6 +59,8 @@ GitHub remains the textual authority/control layer. The Drive mirror must not si
 
 - `Matt_Eakin_CISO_easy_to_say_no_example.pdf` — Drive ID `1KR9qAWyb_ahDld9jtOzyClDzMTzKXF6S`
 - `Matt_Eakin_CISO_easy_to_say_no_example2.pdf` — Drive ID `1Ln5VIbZjfwL4cSuTAx-ORJQRz_3TU4dw`
+- `2026.9.18.HBR_Management Tip of the Day_Create Positive Patterns.pdf` — Drive ID `1QxwcVLaJ7rM4Kpqa8RDRfMh2ir2q26Fm`
+- `BOOK6_HBR_2026-09-18_Create_Positive_Patterns_Source_Note` — Drive ID `1NveXkgZzhyClxpPYotVSuzIsCKq1qgGuwHhbsUemClQ`
 
 These are evidence artifacts, not automatic publication assets or standalone canon.
 

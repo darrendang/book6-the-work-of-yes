@@ -79,3 +79,34 @@ The endpoint may be:
 - Stewardship under constraint
 
 These remain useful hypotheses and should continue to be tested against independent examples rather than treated as a finished framework.
+
+
+## 7. Possibility-opening is not the same as decision-making
+
+The September 18, 2026 HBR convergence sharpened a Book 6 distinction:
+
+> **“Yes, and” is a search operator.**
+
+> **“Earn the decision” is a decision standard.**
+
+Possibility-opening is necessary when an easy no would close inquiry too early. But generating another option is not the same as judging whether the option deserves commitment.
+
+A useful explanatory movement is:
+
+**OPEN → EXPLORE → JUDGE → DECIDE**
+
+This is a lens for analysis, not a locked chapter architecture or formal framework.
+
+## 8. Perpetual possibility can also become avoidance
+
+Book 6 now tracks three related avoidance patterns:
+
+- premature no — avoiding the work of possibility;
+- premature yes — avoiding the work of judgment;
+- perpetual possibility — avoiding the work of deciding.
+
+The development question is:
+
+> **When does possibility-opening stop helping and start postponing judgment?**
+
+Treat perpetual possibility as a canonical failure mode to test against future evidence rather than as a universal rule.

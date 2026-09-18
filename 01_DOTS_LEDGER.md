@@ -59,3 +59,20 @@ The original premise focused on the easy no. The conversation exposed the mirror
 **Decision lesson:** both yes and no can be premature. The deeper failure mode is premature certainty.
 
 **Polarity:** possibility ↔ realism.
+
+
+## Dot 005 — HBR “yes, and” / external convergence
+
+**Date / provenance:** September 18, 2026 HBR *Management Tip of the Day*, supplied by Darren after the September 16 Book 6 decision spine was already canonicalized.
+
+HBR recommends noticing and deliberately creating positive “dots” and using “yes, and” thinking to acknowledge difficulty while identifying a constructive next action.
+
+**Book 6 distinction:** “Yes, and” is a search operator; “Earn the decision” is a decision standard. Possibility-opening can prevent an easy no, but it does not remove the need for judgment and closure.
+
+**New failure mode to test:** perpetual possibility — continuing to generate options after sufficient evidence exists to decide can become another way to avoid the work of decision.
+
+**Classification:** EXTERNAL RESEARCH / INDEPENDENT CONVERGENCE / POST-DEVELOPMENT DISCOVERY.
+
+**Governed artifact:** Google Drive `Book6/artifacts/2026.9.18.HBR_Management Tip of the Day_Create Positive Patterns.pdf` — file ID `1QxwcVLaJ7rM4Kpqa8RDRfMh2ir2q26Fm`.
+
+**Cross-project boundary:** this does not change Book 3, Dang OS, or The Way canon.

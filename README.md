@@ -50,6 +50,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — voice-conversation decision spine and provenance examples
 - `05_CANON_INTELLECTUAL_SPINE.md` — governing question, Earn the Decision, Avoidance Principle, and premature certainty
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
+- `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
 ## Synchronization and authority
 
