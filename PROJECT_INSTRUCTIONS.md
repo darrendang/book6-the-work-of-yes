@@ -224,7 +224,7 @@ For consequential Darren-authored writing, rewriting, future manuscript prose, t
 
 Use when material:
 
-**exact Book 6 source authority → current central Voice Authority via `darrendang/dang-genome/VOICE_AUTHORITY.md` in `darrendang/dang-genome` → root Author Voice Canon → applicable expression/language profile → Book 6 modulation**
+**exact Book 6 source authority → current central Voice Authority via `darrendang/dang-genome/VOICE_AUTHORITY.md` → root Author Voice Canon → applicable expression/language profile → Book 6 modulation**
 
 Book 6 voice should remain Darren’s: practical, restrained, curious, evidence-aware, humble about uncertainty, and willing to hold legitimate tensions without manufacturing a neat answer.
 
