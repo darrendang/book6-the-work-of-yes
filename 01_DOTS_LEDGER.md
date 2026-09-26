@@ -76,3 +76,32 @@ HBR recommends noticing and deliberately creating positive “dots” and using 
 **Governed artifact:** Google Drive `Book6/artifacts/2026.9.18.HBR_Management Tip of the Day_Create Positive Patterns.pdf` — file ID `1QxwcVLaJ7rM4Kpqa8RDRfMh2ir2q26Fm`.
 
 **Cross-project boundary:** this does not change Book 3, Dang OS, or The Way canon.
+
+
+## Dot 006 — Categorical no → integrated method
+
+**Date / provenance:** September 16, 2026 private living-person conversation; public-safe source ID `B6-PS-2026-09-16-01`.
+
+**Source status:** KNOWN TESTIMONY / RAW ARTIFACT LOCATION **SOURCE_GAP**. A substantial portion of the captured exchange involved AI-mediated elicitation rather than a conventional Darren-to-participant interview. Keep source testimony, AI prompts/questions, and later interpretation separate.
+
+**Public-safe pattern:** An initial categorical rejection of an implementation became more nuanced once the underlying objective was separated from the assumption that one prescribed form was the only way to achieve it. The reported result was an integrated approach rather than binary adoption/rejection.
+
+**Decision lesson:** Ask whether the no belongs to the objective or only to one assumed implementation.
+
+**Polarity:** categorical no ↔ curiosity / integration.
+
+**Privacy:** Public-safe derivative only. Identity and sensitive operational details remain outside public GitHub.
+
+## Dot 007 — Passion → strategic concession
+
+**Date / provenance:** Same private source `B6-PS-2026-09-16-01`.
+
+**Source status:** KNOWN TESTIMONY / RAW ARTIFACT LOCATION **SOURCE_GAP**.
+
+**Public-safe pattern:** Strong commitment justified continued effort and changes in strategy/sponsorship for a time, but later evidence supported letting go rather than continuing indefinitely.
+
+**Decision lesson:** Persistence can be earned; so can stopping. Passion does not exempt a decision from evidence.
+
+**Polarity:** persistence ↔ strategic concession.
+
+**Privacy:** Public-safe derivative only. No living-person identity, organization, or re-identifying detail should be added without separate permission.
