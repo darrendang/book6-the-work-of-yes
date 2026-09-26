@@ -239,27 +239,6 @@ For future Book 6 cases, preserve:
 
 ---
 
-## Current cross-card observations — not architecture
-
-These seven cards currently suggest recurring decision dimensions, but they are **not chapter assignments**:
-
-- legitimate constraint vs. premature conclusion;
-- unsolved vs. impossible;
-- persistence vs. stopping;
-- possibility vs. judgment;
-- search vs. closure;
-- easy no, easy yes, and perpetual possibility as different forms of avoidance;
-- confidence earned through sufficient understanding rather than certainty alone.
-
-Additional current tensions now include:
-- objective / requirement vs. assumed implementation form;
-- persistence vs. strategic concession;
-- changing the path vs. changing the decision.
-
-These observations remain hypotheses to test against additional independent cases and contradictions.
-
----
-
 ## B6-SC-006 — From 100% No to an Integrated Method
 
 **Source / provenance:** Public-safe derivative of private source `B6-PS-2026-09-16-01`, a September 16, 2026 living-person conversation. The raw recording/transcript location is not currently verified and remains **SOURCE_GAP**. Provenance note: the captured exchange was not a conventional Darren-to-participant interview; a substantial portion involved AI-mediated elicitation. Source testimony, AI questions, and later Book 6 interpretation must remain distinct.
@@ -344,6 +323,29 @@ YES → evidence → letting go
 ```
 
 The pair is useful because Book 6 is not a book about saying yes. It is a book about doing enough work that either answer can be earned.
+
+---
+
+## Current cross-card observations — not architecture
+
+These seven cards currently suggest recurring decision dimensions, but they are **not chapter assignments**:
+
+- legitimate constraint vs. premature conclusion;
+- unsolved vs. impossible;
+- persistence vs. stopping;
+- possibility vs. judgment;
+- search vs. closure;
+- easy no, easy yes, and perpetual possibility as different forms of avoidance;
+- confidence earned through sufficient understanding rather than certainty alone.
+
+Additional current tensions now include:
+- objective / requirement vs. assumed implementation form;
+- persistence vs. strategic concession;
+- changing the path vs. changing the decision.
+
+These observations remain hypotheses to test against additional independent cases and contradictions.
+
+---
 
 ## Next development step
 
