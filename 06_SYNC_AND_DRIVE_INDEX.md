@@ -1,6 +1,6 @@
 # Book 6 — Sync and Google Drive Index
 
-**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-18  
+**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-25  
 **Authority rule:** Memory provides continuity. GitHub determines current state.
 
 This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Codex. It does not itself expand the scope of Book 6 canon, lock a final title, create chapter architecture, authorize publication, or settle Book 6's formal relationship to The Way.
@@ -17,9 +17,10 @@ Current project operating files:
 - `PROJECT_SOURCES.md` — source, privacy, Project Sources, and artifact-routing policy
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — conceptual/provenance canon
 - `05_CANON_INTELLECTUAL_SPINE.md`
-- `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — governing question/core principle/failure mechanism
-- `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — external HBR convergence and Book 6 possibility/judgment distinction
+- `08_STORY_CARDS_v0.2_2026-09-25.md` — current noncanonical Story Card development instrument
+- `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
+- `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
 
 GitHub governs the current textual control state for Book 6.
 
@@ -63,6 +64,22 @@ GitHub remains the textual authority/control layer. The Drive mirror must not si
 - `BOOK6_HBR_2026-09-18_Create_Positive_Patterns_Source_Note` — Drive ID `1NveXkgZzhyClxpPYotVSuzIsCKq1qgGuwHhbsUemClQ`
 
 These are evidence artifacts, not automatic publication assets or standalone canon.
+
+## Private source routing — September 16 conversation
+
+Public-safe source ID: `B6-PS-2026-09-16-01`
+
+Status: **KNOWN TESTIMONY / RAW RECORDING-TRANSCRIPT LOCATION SOURCE_GAP**
+
+A targeted Drive search on September 25 did not establish the raw recording/transcript location. Do not invent a path or claim byte-level verification.
+
+Interaction boundary: the source was not a conventional Darren-to-participant interview; a substantial portion involved AI-mediated elicitation. Source testimony, AI questions, Darren's later reflection, and Book 6 interpretation remain distinct provenance layers.
+
+Current public-safe derivatives:
+- `B6-SC-006 — From 100% No to an Integrated Method`
+- `B6-SC-007 — From Passion to Letting Go`
+
+The full identity and sensitive source detail must remain in governed private storage if/when the raw artifact is recovered.
 
 Detailed source contents should not be copied into the public GitHub repository unless exact public disclosure is explicitly authorized.
 
