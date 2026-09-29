@@ -110,3 +110,11 @@ The development question is:
 > **When does possibility-opening stop helping and start postponing judgment?**
 
 Treat perpetual possibility as a canonical failure mode to test against future evidence rather than as a universal rule.
+
+## 9. Quality, sufficiency, and authority — September 29
+
+Approved conceptual refinement: `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md`.
+
+Track separately whether a choice is justified, whether further inquiry is likely to improve it, and whether the decision is actually yours. Make material tradeoffs visible. Continued inquiry can itself avoid deciding, but stopping before sufficient understanding remains the opposite failure.
+
+The proposed anatomy, techniques, developmental cycle, and D.O.T.S./CREATE/Book 6 bridge remain hypotheses in `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md`. They are not chapter architecture. Source-derived private examples are routed through `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md`.

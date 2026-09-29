@@ -49,6 +49,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — voice-conversation decision spine and provenance examples
 - `05_CANON_INTELLECTUAL_SPINE.md` — governing question, Earn the Decision, Avoidance Principle, and premature certainty
+- `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — approved refinement: decision quality, sufficiency, authority, visible tradeoffs, and conditional stopping
+- `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` — retained exploratory methods, developmental lens, and cross-book working bridge
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
@@ -79,3 +81,9 @@ Physical placement under `TheWay` is an implementation/workspace convention. The
 ## Architecture guardrail
 
 Do not force a chapter architecture yet. Continue mining independent examples until the underlying decision patterns recur without forcing them.
+
+## September 29 approved refinement
+
+**Earn the decision** now explicitly distinguishes decision quality, decision sufficiency, and decision authority. Do enough work for warranted confidence; recognize when more inquiry is unlikely to change the choice; and ask whether the decision belongs to you.
+
+Read `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` for exact scope and provenance. Private examples remain governed evidence. Architecture and the formal The Way relationship remain open.
