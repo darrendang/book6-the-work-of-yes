@@ -89,3 +89,16 @@ Test future cases by asking:
 - Has the decision already been earned even though the decision-maker has not acted?
 
 This does not make speed inherently superior. The opposite failure remains premature certainty. The work is to know when the search has become sufficient for responsible judgment.
+
+## September 29 countertests — sufficiency and authority
+
+Use `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` without turning sufficiency into a shortcut:
+
+- Could supposedly unhelpful additional inquiry reveal a hidden assumption, contrary evidence, or an unresolved guardrail?
+- Is “enough” grounded in the decision’s consequences, or in impatience or relief from discomfort?
+- Are visible costs being used to justify stopping while important alternatives remain untested?
+- Would stepping back preserve another person’s judgment, or abandon an actual responsibility?
+- Would intervention help, or merely substitute a more experienced person’s preference?
+- Has a later outcome been projected backward into what was supposedly known at decision time?
+
+These are development prompts, not new evidence or a universal autonomy formula. Preserve the possibility of earned yes, earned no, and justified deferral.

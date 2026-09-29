@@ -63,3 +63,9 @@ All future examples, patterns, contradictions, and eventual chapter architecture
 6. Did the result become an earned yes, an earned no, or remain unresolved?
 
 This spine governs inquiry but does not predetermine the book's eventual structure.
+
+## September 29 refinement — additive lineage
+
+`10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` is the approved refinement of this spine: decision quality, sufficiency, and authority; visible tradeoffs; warranted confidence; and the conditional stopping question. The September 16 governing question and principles above remain intact.
+
+`11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` preserves the proposed anatomy, methods, developmental lens, and cross-book bridge at their exploratory maturity. This refinement does not lock architecture or settle Book 6’s formal relationship to The Way.

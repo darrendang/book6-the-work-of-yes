@@ -1,6 +1,6 @@
 # Book 6 — Sync and Google Drive Index
 
-**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-25  
+**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-29  
 **Authority rule:** Memory provides continuity. GitHub determines current state.
 
 This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Codex. It does not itself expand the scope of Book 6 canon, lock a final title, create chapter architecture, authorize publication, or settle Book 6's formal relationship to The Way.
@@ -17,6 +17,8 @@ Current project operating files:
 - `PROJECT_SOURCES.md` — source, privacy, Project Sources, and artifact-routing policy
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — conceptual/provenance canon
 - `05_CANON_INTELLECTUAL_SPINE.md`
+- `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — approved quality/sufficiency/authority refinement
+- `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` — retained exploratory methods and bridge
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — external HBR convergence and Book 6 possibility/judgment distinction
 - `08_STORY_CARDS_v0.2_2026-09-25.md` — current noncanonical Story Card development instrument
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
@@ -54,6 +56,12 @@ Status:
 
 **MIRROR / WORKING-EVIDENCE SURFACE / NOT INDEPENDENT AUTHORITY**
 
+Coverage note: the existing native document preserves the earlier intellectual-spine mirror. The September 29 refinement is represented by the current additive mirror:
+
+- `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — Drive ID `1GbnTaBkfg8FYxc6A-sn4nNI36a7YFhFN`.
+
+Read the exact GitHub canon control for current conceptual authority; neither Drive representation independently governs.
+
 GitHub remains the textual authority/control layer. The Drive mirror must not silently override GitHub canon or project-state controls.
 
 ## Primary evidence artifacts
@@ -82,6 +90,19 @@ Current public-safe derivatives:
 The full identity and sensitive source detail must remain in governed private storage if/when the raw artifact is recovered.
 
 Detailed source contents should not be copied into the public GitHub repository unless exact public disclosure is explicitly authorized.
+
+## September 29 source and recovery routing
+
+- Public-safe source ID: `B6-PS-2026-09-29-01`.
+- Private inspected mining synthesis and approval: `BOOK6_2026-09-29_MINING_SOURCE_AND_APPROVAL.md` — Drive ID `14KW2VcYoNVAsoHsv0wV_oVmkIevkvuBQ`, in `Book6/artifacts`.
+- Original morning recording/transcript: **SOURCE_GAP**. The inspected synthesis is not a verbatim transcript or independent corroboration.
+- Approved abstract canon: `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md`.
+- Retained working hypotheses: `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md`.
+- Central scoped adoption: private `darrendang/dang-genome/00_Canon_Control/BOOK6_DECISION_SUFFICIENCY_AUTHORITY_CANON_2026-09-29.md`.
+- Scoped recovery ZIP: `BOOK6_DANG_OS_GENOME_CANON_BACKUP_2026-09-29.zip` — Book 6 Drive ID `111iAQlF_6w4GPA2yfPtteAfq-hgkQdeW`.
+- The final ZIP manifest identifies committed GitHub refs, file hashes, selected prior state, private source custody, and separate Dang OS/Genome backup copies. It is a recovery artifact, not independent canon or a whole-ecosystem backup.
+
+Detailed family/source contents remain private. Central inclusion promotes only the approved insights at their stated scope; Book 6’s formal relationship remains undecided.
 
 ## Canon records represented in the Drive mirror
 

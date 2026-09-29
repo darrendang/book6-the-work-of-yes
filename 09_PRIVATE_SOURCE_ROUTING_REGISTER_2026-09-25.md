@@ -34,3 +34,16 @@ If the raw recording/transcript is later found, register its exact governed loca
 ### Publication boundary
 
 Traceability does not create publication permission. Any future use of identifying detail or exact source material requires separate review of source fidelity, privacy, consent/permission, and manuscript/publication scope.
+
+## B6-PS-2026-09-29-01
+
+**Intake:** 2026-09-29 Pacific.
+**Class:** TASK-SUPPLIED ASSISTANT MINING SYNTHESIS / ATTRIBUTED RECOLLECTION AND INTERPRETATION.
+**Inspected source:** The mining summary supplied with the current canonization request.
+**Private evidence artifact:** `BOOK6_2026-09-29_MINING_SOURCE_AND_APPROVAL.md` — Drive ID `14KW2VcYoNVAsoHsv0wV_oVmkIevkvuBQ`, in governed `Book6/artifacts`.
+**Original morning dialogue/recording:** SOURCE_GAP — not recovered or inspected.
+**Public disclosure:** MINIMUM NECESSARY ROUTING ONLY.
+
+Darren explicitly approved the abstract refinements for Book 6 and scoped central adoption. `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` governs that conceptual scope; `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` preserves the working hypotheses.
+
+The source’s private examples remain attributed source material. Approval does not independently corroborate the recollection, make candidate assistant language a verbatim morning quotation, or authorize publication of private details.
