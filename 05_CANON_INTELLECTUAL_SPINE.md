@@ -73,3 +73,20 @@ This spine governs inquiry but does not predetermine the book's eventual structu
 ## September 29 evening refinement — additive lineage
 
 `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md` develops what enough serves, how perspective is focused, reciprocal trust, and negotiated sufficiency. It preserves the governing spine and the separate questions of quality, sufficiency, and authority. Exact conceptual approval does not create a finished method or amend source-project authority.
+
+
+## September 30 refinement — decision quality versus outcome quality
+
+`17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` is an additive refinement of this spine.
+
+It adopts:
+
+> **An earned decision does not guarantee a good outcome.**
+
+and preserves a separate outcome-quality question: later results are evidence for learning but do not silently rewrite what was knowable at decision time.
+
+The LAUP handoff is the first canonical Book 6 provenance case for this distinction and adds the handoff inquiry:
+
+> **What understanding must survive a handoff even when the authority to decide changes hands?**
+
+This refinement does not create a universal handoff method, chapter architecture, publication authority, or a formal Book 6 relationship to The Way.
