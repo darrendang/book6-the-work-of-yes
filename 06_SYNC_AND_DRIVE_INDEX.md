@@ -60,13 +60,14 @@ Status:
 
 **MIRROR / WORKING-EVIDENCE SURFACE / NOT INDEPENDENT AUTHORITY**
 
-Audit note: this mirror was identified as stale at the start of the September 30 audit because its content stopped at the September 18 state. It is being refreshed to include the additive September 29 controls and current development pointers. GitHub remains authoritative.
+Audit note: this mirror was identified as stale at the start of the September 30 audit because its content stopped at the September 18 state. It has now been refreshed to include the additive September 29 controls, evidence-balance findings, and current development pointers. GitHub remains authoritative.
 
-Coverage note: the existing native document preserves the earlier intellectual-spine mirror. The September 29 refinement is represented by the current additive mirror:
+Coverage note: the native current-state mirror now summarizes the current spine. Exact additive canon controls are also mirrored separately in Drive:
 
 - `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — Drive ID `1GbnTaBkfg8FYxc6A-sn4nNI36a7YFhFN`.
+- `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md` — Drive ID `17CZJxMOrSyUMudiYWshGv2uBuibQjWTV`.
 
-Read the exact GitHub canon control for current conceptual authority; neither Drive representation independently governs.
+Read the exact GitHub canon controls for current conceptual authority; Drive mirrors do not independently govern.
 
 GitHub remains the textual authority/control layer. The Drive mirror must not silently override GitHub canon or project-state controls.
 
