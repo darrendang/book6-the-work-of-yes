@@ -16,6 +16,14 @@ For each dot, capture:
 - Outcome
 - Earned yes / earned no / unresolved
 - Perspective change
+- Values / criteria the decision is meant to serve
+- Material tradeoffs / second-order effects
+- Decision quality: what supports yes/no?
+- Decision sufficiency: what additional inquiry could still materially change the choice?
+- Decision authority: who owns the consequences and who should decide?
+- Grounded next step / guardrails under remaining uncertainty
+- What would justify changing the threshold or standard?
+- Outcome quality versus decision quality
 - Possible connections to other books, The Way, Dang Genome, or lived experience without assuming governance
 
 ## Seed dot 001 — Matt / CISO / Microsoft Fabric
@@ -105,3 +113,53 @@ HBR recommends noticing and deliberately creating positive “dots” and using 
 **Polarity:** persistence ↔ strategic concession.
 
 **Privacy:** Public-safe derivative only. No living-person identity, organization, or re-identifying detail should be added without separate permission.
+
+## Dot 008 — Decision sufficiency / visible tradeoffs
+
+**Date / provenance:** September 29, 2026 private source `B6-PS-2026-09-29-01`.
+
+**Public-safe pattern:** A decision can become clearer when material costs and consequences that were previously implicit are made visible. More inquiry is not automatically better once additional work is unlikely to materially change the choice.
+
+**Decision lesson:** Ask **when is enough, enough?** and make material tradeoffs visible without using sufficiency as an excuse for impatience.
+
+**Status:** PRIVATE-SOURCE ABSTRACT / NO PUBLIC CASE DETAIL.
+
+## Dot 009 — Decision authority / developing judgment
+
+**Date / provenance:** September 29, 2026 private source `B6-PS-2026-09-29-01`.
+
+**Public-safe pattern:** Knowing what you would choose does not automatically make the choice yours. Decision quality, decision sufficiency, and decision authority are separate.
+
+**Decision lesson:** Good judgment includes knowing when not to substitute your judgment for someone else's, while preserving actual responsibilities and oversight.
+
+**Status:** PRIVATE-SOURCE ABSTRACT / NO PRIVATE FAMILY DETAIL.
+
+## Dot 010 — Values and criteria give “enough” meaning
+
+**Date / provenance:** September 29, 2026 private source `B6-PS-2026-09-29-02`.
+
+**Public-safe pattern:** Evidence does not define sufficiency by itself. The decision-maker must identify what the choice is meant to serve: material values, priorities, desired benefits, acceptable costs, consequences, and genuine constraints.
+
+**Decision lesson:** Ask **enough for what, and according to whose priorities?**
+
+**Status:** PRIVATE-SOURCE ABSTRACT / CONCEPTUAL REFINEMENT.
+
+## Dot 011 — Reciprocal trust
+
+**Date / provenance:** September 29, 2026 private source `B6-PS-2026-09-29-02`.
+
+**Public-safe pattern:** Trust around delegated responsibility runs in both directions. The person receiving responsibility must demonstrate judgment, while also being able to rely on the person granting responsibility to provide appropriate support, clarity, and boundaries.
+
+**Decision lesson:** Trust does not erase authority, accountability, oversight, or domain limits.
+
+**Status:** PRIVATE-SOURCE ABSTRACT / NEEDS INDEPENDENT STORY AND COUNTEREXAMPLE.
+
+## Dot 012 — Negotiated sufficiency
+
+**Date / provenance:** September 29, 2026 private source `B6-PS-2026-09-29-02`.
+
+**Public-safe pattern:** In multi-party decisions, one party's definition of enough does not settle the agreement. Interests, objectives, thresholds, negotiable preferences, and genuine guardrails must be distinguished.
+
+**Decision lesson:** A changed threshold should be justified by new understanding or an explicit tradeoff, not by the mere desire to reach agreement.
+
+**Status:** PRIVATE-SOURCE ABSTRACT / NEEDS SOURCE-GROUNDED BARGAINING CASE.
