@@ -248,5 +248,6 @@ Development gaps remain open for a concrete easy-yes failure, additional public-
 - Darren's conflict-of-interest rationale and causal interpretation of later divergence remain attributed source statement, not independently corroborated fact.
 - Successor identity is excluded from Book 6 publication use unless Darren explicitly changes that instruction.
 - Original Master Plan PDF direct recovery and visual verification of Darren's remembered green cover remain SOURCE_GAP.
+- Central ecosystem adoption: private `darrendang/dang-genome/00_Canon_Control/LAUP_CAREER_WORK_AND_DECISION_MEMORY_CANON_2026-09-30.md` → `WRK-0006` + `SRC-0047` + `DG-000020`.
 
 This source now supports the first canonical provenance case for the decision-quality-versus-outcome-quality strand under `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md`. It does not create chapter architecture or publication permission.
