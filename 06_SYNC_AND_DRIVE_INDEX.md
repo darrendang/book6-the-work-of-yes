@@ -91,9 +91,9 @@ These are evidence artifacts, not automatic publication assets or standalone can
 
 Public-safe source ID: `B6-PS-2026-09-16-01`
 
-Status: **KNOWN TESTIMONY / RAW RECORDING-TRANSCRIPT LOCATION SOURCE_GAP**
+Status: **KNOWN TESTIMONY / PRIMARY AUDIO RECOVERED / TRANSCRIPT VERIFICATION OPEN**
 
-A targeted Drive search on September 25 did not establish the raw recording/transcript location. Do not invent a path or claim byte-level verification.
+The primary audio was recovered in governed `Book6/artifacts` on September 30 and registered privately in `BOOK6_2026-09-16_PRIMARY_AUDIO_RECOVERY_NOTE`. Exact quotation and chronology must still be verified against the audio; do not reconstruct them from memory or derivative cards.
 
 Interaction boundary: the source was not a conventional Darren-to-participant interview; a substantial portion involved AI-mediated elicitation. Source testimony, AI questions, Darren's later reflection, and Book 6 interpretation remain distinct provenance layers.
 
