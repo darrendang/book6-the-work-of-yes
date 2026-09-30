@@ -118,3 +118,27 @@ Continue mining rather than filling these gaps by inference:
 **No chapter architecture is earned by this audit.**
 
 The audit strengthens the spine while simultaneously showing that the evidence base is heterogeneous and still has important gaps. Continue mining independent stories, counterexamples, contradictions, and disappointing-outcome cases before imposing structure.
+
+
+## Post-audit intake — LAUP handoff / disappointing outcome
+
+Later on September 30, Darren supplied a concrete professional example addressing one of this audit's evidence gaps.
+
+**Private source:** `B6-PS-2026-09-30-01`  
+**Governed Drive note:** `BOOK6_2026-09-30_LAUP_MASTER_PLAN_HANDOFF_SOURCE_NOTE` — Drive ID `1xWnmS12ro9JgH-RcL82xaP9z3dEewnC1PBbrn46TlMM`  
+**Public-safe derivative:** `B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome` in `16_STORY_CARDS_v0.5_2026-09-30.md`.
+
+The case gives Book 6 a concrete candidate for **decision quality ≠ outcome quality**: an ethically motivated transfer of implementation authority to avoid conflict-of-interest concerns, followed by a downstream trajectory that Darren experienced as disappointing.
+
+Public research corroborates the existence and broad participatory development of the LAUP Master Plan, Darren's participation on the consulting team, LAUP's separate organizational creation, substantial implementation activity, and significant later reach. Darren's conflict-of-interest rationale and causal assessment of later divergence remain attributed firsthand recollection.
+
+This intake narrows—but does not close—the audit's evidence gap. Continue seeking independent disappointing-outcome cases.
+
+The evidence-balance count after this intake is now:
+
+- **five case-like lived/professional cards:** SC-001, SC-002, SC-006, SC-007, SC-008;
+- **one conceptual metaphor:** SC-003;
+- **one conceptual failure mode:** SC-004;
+- **one external research convergence:** SC-005.
+
+Architecture remains open.
