@@ -23,7 +23,8 @@ Current project operating files:
 - `08_STORY_CARDS_v0.1_2026-09-25.md` — historical noncanonical Story Card development state
 - `08_STORY_CARDS_v0.2_2026-09-25.md` — historical noncanonical Story Card development state
 - `13_STORY_CARDS_v0.3_2026-09-30.md` — historical noncanonical development state; pair-specific latest-spine retest
-- `14_STORY_CARDS_v0.4_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; full latest-spine retest of all seven cards
+- `14_STORY_CARDS_v0.4_2026-09-30.md` — historical noncanonical development state; full-spine retest before LAUP intake
+- `16_STORY_CARDS_v0.5_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; includes B6-SC-008 LAUP handoff / disappointing outcome
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -235,3 +236,16 @@ Key routing results:
 - The Drive current-canonical-state mirror required refresh; GitHub remains authority regardless of mirror freshness.
 
 Development gaps remain open for concrete easy-yes failure, public-safe decision authority, reciprocal trust, negotiated sufficiency, and a well-reasoned decision with a disappointing outcome.
+
+
+## September 30 LAUP handoff source intake
+
+- Public-safe source ID: `B6-PS-2026-09-30-01`.
+- Governed private source note: `BOOK6_2026-09-30_LAUP_MASTER_PLAN_HANDOFF_SOURCE_NOTE` — Drive ID `1xWnmS12ro9JgH-RcL82xaP9z3dEewnC1PBbrn46TlMM`, in `Book6/artifacts`.
+- Current public-safe derivative: `B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome` in `16_STORY_CARDS_v0.5_2026-09-30.md`.
+- Public research corroborates the Master Plan, broad planning participation, consulting-team role, separate LAUP implementation organization, implementation activity, and later scale.
+- Darren's conflict-of-interest rationale and causal interpretation of later divergence remain attributed source statement, not independently corroborated fact.
+- Successor identity is excluded from Book 6 publication use unless Darren explicitly changes that instruction.
+- Original Master Plan PDF direct recovery and visual verification of Darren's remembered green cover remain SOURCE_GAP.
+
+This source supplies the first concrete candidate case for the open decision-quality-versus-outcome-quality strand. It does not by itself canonize a new principle or create chapter architecture.
