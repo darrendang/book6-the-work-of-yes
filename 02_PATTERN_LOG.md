@@ -173,3 +173,36 @@ This raises a new development question:
 Possible continuity mechanisms—decision rationale, criteria, guardrails, institutional memory, transition structures, or explicit stewardship expectations—remain development hypotheses until supported by additional cases.
 
 The case also demonstrates that responsible decision-making may **change the risk profile rather than eliminate risk**. Avoiding a conflict-of-interest risk can increase continuity or interpretation risk. The work is to make those tradeoffs visible at decision time, not to pretend a clean choice removes uncertainty.
+
+
+## 16. A yes may conceal several different decisions
+
+The visitor-log prototype case supplies the first concrete Book 6 easy-yes provenance case.
+
+A positive reaction to a real need, useful experiment, or promising prototype can silently collapse multiple commitments into one.
+
+Adopted inquiry:
+
+> **What exactly are we saying yes to?**
+
+Where material, separate:
+
+**objective → experiment → prototype → implementation → production architecture → ownership → resource commitment → lifecycle → long-term solution**
+
+A responsible decision may preserve several yeses while deferring or rejecting another.
+
+## 17. Prototype success does not establish production readiness
+
+A prototype can earn the right to be considered without earning the right to become production.
+
+The evidentiary threshold changes as institutional dependence increases. Production can introduce security, privacy, architecture, resilience, documentation, support, ownership, technical debt, governance, and opportunity-cost consequences that were irrelevant or tolerable during experimentation.
+
+This is not an anti-citizen-development principle. Experimentation and enterprise production serve different purposes and require different levels of sufficiency.
+
+## 18. Relevant expertise can change the decision before commitment
+
+The case also demonstrates a perspective pattern:
+
+**initial perspective → additional relevant perspectives → wider field of consequences → decomposed decision → more earned judgment**
+
+The lesson is not that one role was right and another wrong. The decision improved because the process allowed relevant perspectives to surface before the initial answer hardened into organizational commitment.
