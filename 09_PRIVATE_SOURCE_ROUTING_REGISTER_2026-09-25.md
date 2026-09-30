@@ -108,3 +108,22 @@ The DOCX was fully inspected and supports the enterprise-readiness, resource, ma
 Do not place internal cost/resource estimates, raw correspondence, employee identities, personnel names, or security-sensitive implementation details in public GitHub or future publication without separate review and authorization.
 
 The public-safe case should remain an employee-developed visitor-log prototype reviewed for enterprise readiness.
+
+
+## B6-PS-2026-09-30-03
+
+**Intake:** 2026-09-30 Pacific.  
+**Class:** PRIVATE MORNING CONVERSATION / ATTRIBUTED DARREN SOURCE STATEMENTS + APPROVED ASSISTANT MINING.  
+**Governed private source note:** `BOOK6_2026-09-30_MORNING_DECISION_WORK_SOURCE_NOTE` — Drive ID `1NTySHYyVGW6G7iffa472sButn-jBbjMDLfot3Fxtu4E`, in `Book6/artifacts`.  
+**Complete raw audio/verbatim transcript:** SOURCE_GAP in the current execution.  
+**Public disclosure:** ABSTRACT DECISION LEARNING ONLY.
+
+### Canonical derivative
+
+- `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md`
+
+The public control preserves only the transferable conceptual learning. Detailed professional and family examples remain in governed private evidence and are not publication-authorized.
+
+The source cluster strengthens negotiated sufficiency, decision authority, reciprocal trust, accumulated evidence, and listening-before-no, while preserving irreducible uncertainty as an open question.
+
+Shared membership in one morning conversation does not make the individual examples independent corroboration.
