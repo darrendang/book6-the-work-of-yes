@@ -84,3 +84,27 @@ The public-safe Book 6 case should focus on the decision problem: an ethically m
 ### Source gaps
 
 The exact contemporaneous record of the conflict-of-interest discussion, detailed handoff/governance design, precise chronology of later plan changes and staff departures, and a stable recovered copy of the original Master Plan PDF remain source gaps. Darren remembers a green cover; that visual detail was not independently verified in the September 30 research pass.
+
+
+## B6-PS-2026-09-30-02
+
+**Intake:** 2026-09-30 Pacific.  
+**Class:** PRIVATE PROFESSIONAL SOURCE / DARREN FIRSTHAND CONTEXT + INSPECTED INTERNAL ANALYSIS.  
+**Governed private source note:** `BOOK6_2026-09-30_VISITOR_LOG_EASY_YES_SOURCE_NOTE` — Drive ID `1UYQHG6gmR1TQRV6OAsOt1am-6hmQAo-3bp8ESDoyC1Q`, in `Book6/artifacts`.  
+**Task-supplied source files:** `Visitor Log Project Analysis_ME.docx`; `IT Steering Committee - Visitor Log Project - Estimated Effort and Costs.pdf`.  
+**Public disclosure:** PUBLIC-SAFE ABSTRACT ONLY.
+
+### Evidence boundary
+
+The DOCX was fully inspected and supports the enterprise-readiness, resource, maintenance, governance, and lifecycle analysis. The PDF is a PDF portfolio; current extraction exposed only the portfolio wrapper and did not expose the embedded email/attachments. Do not claim verification of unseen email text.
+
+### Derived public-safe output
+
+- `B6-SC-009 — Prototype Is Not Production`
+- `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md`
+
+### Privacy / publication boundary
+
+Do not place internal cost/resource estimates, raw correspondence, employee identities, personnel names, or security-sensitive implementation details in public GitHub or future publication without separate review and authorization.
+
+The public-safe case should remain an employee-developed visitor-log prototype reviewed for enterprise readiness.
