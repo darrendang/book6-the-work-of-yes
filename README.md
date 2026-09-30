@@ -59,14 +59,18 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` — canonical decision-quality vs. outcome-quality distinction and LAUP handoff provenance case
 - `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md` — canonical easy-yes / prototype-to-production distinction and adopted inquiry “What exactly are we saying yes to?”
 - `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` — canonical refinement: same governing spine, different kinds of decision work; authority, trust, earned efficiency, listening-before-no, and irreducible uncertainty
+- `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` — cross-source interview evidence: experience as map not script, situated knowledge, distributed decision work, delegated latitude, and incremental confidence
+- `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical test architecture; five editorial movements, explicitly not a final Part/chapter map
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
 ### Current evidence balance
 
-The current nine-card development set is heterogeneous: six case-like lived/professional cards, one conceptual metaphor, one conceptual failure mode, and one external research convergence. Do not treat card count as story count or as evidence for chapter architecture.
+The nine-card public development set remains heterogeneous and is not an exhaustive count of Book 6 evidence. The September 30 interview sweep adds independent source families across professional, mentor, colleague, spouse, parent-child, sibling, and reader-reaction material while keeping private/living-person evidence outside public GitHub.
 
-Current under-developed areas include independent public-safe cases and counterexamples for decision authority, reciprocal trust, negotiated sufficiency, and irreducible uncertainty, plus additional cases that test decision quality versus outcome quality. The September 30 morning source cluster now provides canonical private provenance for the first three, but shared source lineage is not independent corroboration. The LAUP handoff is now the first canonical provenance case for a well-reasoned decision with a disappointing downstream outcome.
+Decision authority, reciprocal trust, negotiated sufficiency, accumulated evidence, and family-range diversity are no longer primarily single-source gaps. The highest-value remaining targets are now contradiction cases: weak process / favorable outcome, bounded experimentation that creates harmful commitment creep, and irreducible uncertainty used as a rationalization for reckless action.
+
+The evidence base is now broad enough to test a provisional architecture. That does not make the current five-movement map final.
 
 ## Synchronization and authority
 
@@ -94,7 +98,9 @@ Physical placement under `TheWay` is an implementation/workspace convention. The
 
 ## Architecture guardrail
 
-Do not force a chapter architecture yet. Continue mining independent examples until the underlying decision patterns recur without forcing them.
+The evidence now supports **provisional architecture testing**, but not architecture lock.
+
+Use `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` as a development instrument. Test whether new cases and counterexamples naturally land in the proposed movements. Do not convert the map into fixed Parts or chapters until the structure survives further contradiction testing and Darren explicitly approves a formal outline.
 
 ## September 29 approved refinement
 
@@ -150,3 +156,32 @@ The control also adopts bounded learning around negotiated sufficiency, decision
 > **Can a decision be earned when some of the evidence required to judge it can only exist after you act?**
 
 Detailed morning examples remain private. The complete raw audio/verbatim transcript remains a source gap in the current execution. This does not create chapter architecture or central ecosystem adoption.
+
+
+### September 30 interview-evidence refinement
+
+`21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` canonizes cross-source findings that now recur independently across the interview corpus.
+
+It adopts:
+
+> **A prior decision can create a map without becoming a template.**
+
+> **Decision authority does not imply informational completeness.**
+
+> **The work of earning a decision can be distributed even when final decision authority is not.**
+
+> **Confidence can be earned incrementally.**
+
+and the inquiry:
+
+> **What must I understand about the person making the choice—not just the choice itself?**
+
+The detailed sources remain private. Primary audio governs exact quotation where available.
+
+The same evidence review authorizes a noncanonical provisional architecture test in `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`.
+
+Current architecture judgment:
+
+**ENOUGH TO STRUCTURE: YES.**
+
+**ENOUGH TO LOCK: NO.**
