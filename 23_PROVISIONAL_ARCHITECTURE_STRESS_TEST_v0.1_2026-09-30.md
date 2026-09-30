@@ -169,7 +169,7 @@ Current priority gap:
 - “we cannot know until we act” used to rationalize reckless action;
 - accumulated trust that becomes stale.
 
-A private family-source lead may be relevant to the first gap, but it remains a **candidate lead**, not an admitted Book 6 case, pending separate evidence review.
+A private family-source lead was reviewed against this gap. Current evidence suggests distributed inquiry and reliance on a better-informed trusted advisor rather than a clean weak-process / lucky-outcome case. The gap therefore remains open.
 
 **Decision:** retain and prioritize contradiction mining.
 
