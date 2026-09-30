@@ -168,3 +168,21 @@ Countertests:
 Book 6 should protect both sides:
 
 **do not productionize merely because a prototype works; do not suppress experimentation merely because production is hard.**
+
+
+## Same-spine / different-work misuse tests
+
+The September 30 morning refinement creates several new ways the framework could be misused.
+
+Countertests:
+
+- Is **negotiated sufficiency** reflecting new understanding, or merely lowering the standard to get agreement?
+- Is **decision authority** preserving ownership, or being used as an excuse to avoid a real supervisory or fiduciary duty?
+- Is **trust as evidence** grounded in relevant repeated behavior, or being used to bypass current contrary evidence?
+- Is **earned efficiency** relying on evidence that is still applicable, or on stale assumptions from a different context?
+- Is **listening before no** genuine inquiry, or merely procedural theater before a predetermined answer?
+- Is **irreducible uncertainty** being acknowledged honestly, or used to justify reckless action without guardrails?
+- Are bounded experiments being designed to generate missing evidence, or merely postponing an uncomfortable stop?
+- Is later evidence being used to judge the later continuation decision, or improperly projected backward into the original commitment?
+
+The framework should make uncertainty and authority more visible, not provide more sophisticated language for rationalizing a preferred answer.
