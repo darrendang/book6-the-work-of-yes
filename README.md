@@ -55,6 +55,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `14_STORY_CARDS_v0.4_2026-09-30.md` — historical noncanonical development state; first full-spine retest of the seven-card set
 - `16_STORY_CARDS_v0.5_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; adds the LAUP conflict-free-handoff / disappointing-outcome case
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — full GitHub/Drive asset audit, evidence-balance findings, stale-state repairs, and development gaps
+- `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` — canonical decision-quality vs. outcome-quality distinction and LAUP handoff provenance case
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
@@ -62,7 +63,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 The current eight-card development set is heterogeneous: five case-like lived/professional cards, one conceptual metaphor, one conceptual failure mode, and one external research convergence. Do not treat card count as story count or as evidence for chapter architecture.
 
-Current under-developed areas include a concrete easy-yes failure, additional public-safe decision-authority cases, reciprocal trust, negotiated sufficiency, and independent cases that further test decision quality versus outcome quality. The LAUP handoff now provides the first concrete candidate for a well-reasoned decision with a disappointing downstream outcome.
+Current under-developed areas include a concrete easy-yes failure, additional public-safe decision-authority cases, reciprocal trust, negotiated sufficiency, and independent cases that further test decision quality versus outcome quality. The LAUP handoff is now the first canonical provenance case for a well-reasoned decision with a disappointing downstream outcome.
 
 ## Synchronization and authority
 
