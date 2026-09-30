@@ -126,3 +126,30 @@ A sound decision process does not guarantee a favorable outcome, and a favorable
 ### Current development instrument
 
 `16_STORY_CARDS_v0.5_2026-09-30.md` is the current noncanonical Story Card/evidence-card instrument. It distinguishes lived/professional cases from conceptual counterweights, conceptual failure modes, and external research rather than treating all cards as equivalent evidence.
+
+
+### Same spine, different decision work
+
+The September 30 morning canon adds a companion inquiry:
+
+> **What kind of work does this decision require before confidence is warranted?**
+
+The governing question remains unchanged.
+
+Different decision environments may require different work: decomposition, negotiation, preserving rightful authority, accumulated evidence, reciprocal trust, perspective-taking, or explicit treatment of uncertainty that cannot be eliminated before action.
+
+Adopted bounded lessons include:
+
+- changing a threshold can represent better judgment rather than weaker conviction;
+- decision authority is not cost-free;
+- trust can become evidence when grounded in repeated relevant behavior;
+- faster judgment can be earned through accumulated evidence rather than easy yes;
+- listening may not change the answer but can change whether the answer was earned.
+
+Canonical open question:
+
+> **Can a decision be earned when some of the evidence required to judge it can only exist after you act?**
+
+Current hypotheses around irreducible uncertainty remain exploratory rather than a finished method.
+
+Exact control: `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md`.
