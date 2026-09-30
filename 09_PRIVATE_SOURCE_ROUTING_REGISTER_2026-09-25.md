@@ -127,3 +127,21 @@ The public control preserves only the transferable conceptual learning. Detailed
 The source cluster strengthens negotiated sufficiency, decision authority, reciprocal trust, accumulated evidence, and listening-before-no, while preserving irreducible uncertainty as an open question.
 
 Shared membership in one morning conversation does not make the individual examples independent corroboration.
+
+
+## B6-PS-2026-09-30-04
+
+**Intake:** 2026-09-30 Pacific.  
+**Class:** PRIVATE MULTI-SOURCE INTERVIEW / CONVERSATION EVIDENCE CLUSTER.  
+**Governed private source note:** `BOOK6_2026-09-30_INTERVIEW_DECISION_EVIDENCE_SOURCE_NOTE` — Drive ID `1B_SpJrRYq5AmrOoI2QQe73KN1HygJzIBzEgMHdVC5zU`, in `Book6/artifacts`.  
+**Public disclosure:** ABSTRACT DECISION LEARNING + MINIMUM SAFE ROUTING ONLY.
+
+### Canonical derivative
+
+- `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md`
+
+### Development derivative
+
+- `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`
+
+Detailed source contents remain private. Primary-source hierarchy, privacy restrictions, source exclusions, and exact raw-evidence locations are retained in the governed private source note.
