@@ -31,6 +31,7 @@ Current project operating files:
 - `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` — canonical morning refinement: different decision environments require different work
 - `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` — canonical cross-source interview-evidence refinement
 - `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical provisional architecture test
+- `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — noncanonical first stress test of the five movements
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -295,3 +296,12 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Detailed family, employment, relationship, and living-person evidence remains private.
 - Primary audio governs exact quotation where available; machine transcripts are navigation aids.
 - The architecture map is a test structure only and does not lock Parts or chapters.
+
+
+## September 30 architecture stress test
+
+- Public-safe development control: `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md`.
+- Private detailed companion: `BOOK6_2026-09-30_ARCHITECTURE_STRESS_TEST_PRIVATE_v0.1` in governed `Book6/artifacts`.
+- Result: all five provisional movements survive the first stress test.
+- Current architecture status remains: enough to structure, not enough to lock.
+- Highest-value next phase: contradiction mining and counterexample qualification rather than collecting additional confirming stories indiscriminately.
