@@ -206,3 +206,42 @@ The case also demonstrates a perspective pattern:
 **initial perspective → additional relevant perspectives → wider field of consequences → decomposed decision → more earned judgment**
 
 The lesson is not that one role was right and another wrong. The decision improved because the process allowed relevant perspectives to surface before the initial answer hardened into organizational commitment.
+
+
+## 19. Same spine, different work
+
+The governing question remains stable, but the work required to earn confidence varies by decision environment.
+
+Adopted companion question:
+
+> **What kind of work does this decision require before confidence is warranted?**
+
+The required work may include decomposition, negotiation, preserving rightful authority, accumulated evidence, reciprocal trust, perspective-taking, or explicit treatment of uncertainty that cannot be eliminated before action.
+
+This is not a universal sequence.
+
+## 20. Earned efficiency
+
+Repeated relevant evidence can reduce how much inquiry must be repeated in materially similar decisions.
+
+Faster judgment is not necessarily an easy yes when the evidence supporting that speed has already been earned.
+
+The test is whether prior evidence remains relevant to the current stakes, conditions, and decision.
+
+## 21. Listening before no
+
+Widening perspective does not require changing the answer.
+
+A no may remain responsible after genuine inquiry. Listening can improve the quality and legitimacy of the decision even when it does not change the outcome.
+
+## 22. Irreducible uncertainty
+
+Some consequential decisions must be made before all important evidence can exist.
+
+Book 6 must therefore avoid implying that sufficient pre-decision evidence is always attainable.
+
+Open question:
+
+> **Can a decision be earned when some of the evidence required to judge it can only exist after you act?**
+
+Risk ownership, accountability, reversibility, bounded commitments, review conditions, and intended learning remain hypotheses to test rather than a finished method.
