@@ -169,7 +169,7 @@ Current priority gap:
 - “we cannot know until we act” used to rationalize reckless action;
 - accumulated trust that becomes stale.
 
-A private family-source lead was reviewed against this gap. Current evidence does not support a clean weak-process / lucky-outcome classification. It instead suggests a different development problem: a trusted advisor may understand the external quality of an option while the chooser's person-option fit remains less explored. The lucky-outcome gap therefore remains open.
+A private family-source lead was reviewed against this gap. Current evidence does not support a clean weak-process / lucky-outcome classification. It instead produced the canonical person–option fit refinement in `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md`: a trusted advisor may understand the external quality of an option while the chooser's person-option fit remains less explored. The lucky-outcome gap therefore remains open.
 
 **Decision:** retain and prioritize contradiction mining.
 
