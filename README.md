@@ -53,17 +53,19 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` — retained exploratory methods, developmental lens, and cross-book working bridge
 - `13_STORY_CARDS_v0.3_2026-09-30.md` — historical noncanonical development state; first September 30 retest of the private-source pair
 - `14_STORY_CARDS_v0.4_2026-09-30.md` — historical noncanonical development state; first full-spine retest of the seven-card set
-- `16_STORY_CARDS_v0.5_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; adds the LAUP conflict-free-handoff / disappointing-outcome case
+- `16_STORY_CARDS_v0.5_2026-09-30.md` — historical noncanonical development state; adds the LAUP conflict-free-handoff / disappointing-outcome case
+- `19_STORY_CARDS_v0.6_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; adds the first concrete easy-yes / corrected-before-commitment case
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — full GitHub/Drive asset audit, evidence-balance findings, stale-state repairs, and development gaps
 - `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` — canonical decision-quality vs. outcome-quality distinction and LAUP handoff provenance case
+- `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md` — canonical easy-yes / prototype-to-production distinction and adopted inquiry “What exactly are we saying yes to?”
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
 ### Current evidence balance
 
-The current eight-card development set is heterogeneous: five case-like lived/professional cards, one conceptual metaphor, one conceptual failure mode, and one external research convergence. Do not treat card count as story count or as evidence for chapter architecture.
+The current nine-card development set is heterogeneous: six case-like lived/professional cards, one conceptual metaphor, one conceptual failure mode, and one external research convergence. Do not treat card count as story count or as evidence for chapter architecture.
 
-Current under-developed areas include a concrete easy-yes failure, additional public-safe decision-authority cases, reciprocal trust, negotiated sufficiency, and independent cases that further test decision quality versus outcome quality. The LAUP handoff is now the first canonical provenance case for a well-reasoned decision with a disappointing downstream outcome.
+Current under-developed areas include additional public-safe decision-authority cases, reciprocal trust, negotiated sufficiency, and independent cases that further test decision quality versus outcome quality. The LAUP handoff is now the first canonical provenance case for a well-reasoned decision with a disappointing downstream outcome.
 
 ## Synchronization and authority
 
@@ -113,3 +115,20 @@ Read `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` for exact scope
 Scoped private ecosystem adoption is complete in `darrendang/dang-genome/00_Canon_Control/LAUP_CAREER_WORK_AND_DECISION_MEMORY_CANON_2026-09-30.md`, with LAUP recorded as key career work `WRK-0006`, source route `SRC-0047`, and native principle `DG-000020`.
 
 This cross-project adoption does not settle Book 6's formal relationship to The Way or authorize publication.
+
+
+### September 30 easy-yes prototype-to-production canon
+
+`18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md` supplies the first concrete Book 6 easy-yes / corrected-before-commitment provenance case.
+
+It canonizes:
+
+> **A good idea is not yet an earned implementation.**
+
+> **A prototype may earn the right to be considered without earning the right to become production.**
+
+and adopts the inquiry:
+
+> **What exactly are we saying yes to?**
+
+The detailed internal professional evidence remains private. Public Book 6 controls carry only the transferable decision pattern. This does not create chapter architecture or central ecosystem adoption.
