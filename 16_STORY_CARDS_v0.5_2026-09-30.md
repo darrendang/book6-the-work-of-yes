@@ -436,7 +436,7 @@ These observations remain hypotheses to test against additional independent case
 
 ---
 
-## Full latest-spine retest — all seven cards
+## Full latest-spine retest — all eight cards
 
 **Status:** DEVELOPMENTAL AUDIT / NONCANONICAL INTERPRETATION
 
@@ -611,7 +611,7 @@ The eight development cards do **not** constitute eight equivalent story cases.
 - **Conceptual failure mode:** SC-004.
 - **External research convergence:** SC-005.
 
-This distinction matters. Architecture should not be inferred from a count of seven cards when three cards are not independent narrative cases.
+This distinction matters. Architecture should not be inferred from a count of eight cards when three cards are not independent narrative cases.
 
 The current case base is strongest on:
 - legitimate constraint vs. premature conclusion;
@@ -621,7 +621,7 @@ The current case base is strongest on:
 
 The current case base remains comparatively thin on:
 - concrete easy-yes failure;
-- decision authority in a non-family public-safe case;
+- additional public-safe authority-transfer cases;
 - reciprocal trust;
 - negotiated sufficiency with source-grounded thresholds;
 
