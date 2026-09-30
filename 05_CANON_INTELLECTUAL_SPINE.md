@@ -155,3 +155,24 @@ It also adopts:
 These refinements strengthen decision authority, trust, situated knowledge, and bounded action under uncertainty without creating a universal decision algorithm.
 
 The evidence is now sufficient for a provisional architecture test in `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`. That map is noncanonical development structure, not final Parts or chapters.
+
+
+## September 30 refinement — person–option fit and trusted judgment
+
+`24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` is an additive refinement of this spine.
+
+It adopts:
+
+> **Option quality is not the same as person–option fit.**
+
+and:
+
+> **Trusted judgment can carry relevant external evidence; it does not eliminate the chooser’s need for self-inquiry.**
+
+It also adopts the inquiry:
+
+> **Have we evaluated how good the option is—or how good the option is for this person?**
+
+Some evidence about fit may emerge only after living the choice. Later self-knowledge can improve future judgment without being projected backward as evidence that the original choice was necessarily unreasonable.
+
+This refinement strengthens the existing person-and-decision inquiry, distributed decision work, decision authority, and irreducible uncertainty. It does not create a verdict on the private provenance case, a universal fit test, chapter architecture, publication authority, or central The Way/Dang Genome adoption.
