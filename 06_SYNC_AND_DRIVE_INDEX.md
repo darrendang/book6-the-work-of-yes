@@ -25,6 +25,7 @@ Current project operating files:
 - `13_STORY_CARDS_v0.3_2026-09-30.md` — historical noncanonical development state; pair-specific latest-spine retest
 - `14_STORY_CARDS_v0.4_2026-09-30.md` — historical noncanonical development state; full-spine retest before LAUP intake
 - `16_STORY_CARDS_v0.5_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; includes B6-SC-008 LAUP handoff / disappointing outcome
+- `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` — canonical outcome-quality/handoff refinement and LAUP provenance case
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -248,4 +249,4 @@ Development gaps remain open for a concrete easy-yes failure, additional public-
 - Successor identity is excluded from Book 6 publication use unless Darren explicitly changes that instruction.
 - Original Master Plan PDF direct recovery and visual verification of Darren's remembered green cover remain SOURCE_GAP.
 
-This source supplies the first concrete candidate case for the open decision-quality-versus-outcome-quality strand. It does not by itself canonize a new principle or create chapter architecture.
+This source now supports the first canonical provenance case for the decision-quality-versus-outcome-quality strand under `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md`. It does not create chapter architecture or publication permission.
