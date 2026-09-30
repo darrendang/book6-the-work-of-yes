@@ -90,3 +90,22 @@ The LAUP handoff is the first canonical Book 6 provenance case for this distinct
 > **What understanding must survive a handoff even when the authority to decide changes hands?**
 
 This refinement does not create a universal handoff method, chapter architecture, publication authority, or a formal Book 6 relationship to The Way.
+
+
+## September 30 refinement — easy yes and decision decomposition
+
+`18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md` is an additive refinement of this spine.
+
+It provides the first concrete canonical provenance case for the easy-yes half of the Avoidance Principle and adopts:
+
+> **A good idea is not yet an earned implementation.**
+
+> **A prototype may earn the right to be considered without earning the right to become production.**
+
+Adopted inquiry:
+
+> **What exactly are we saying yes to?**
+
+The case shows that a single apparent yes can conceal distinct commitments to the objective, experiment, prototype, implementation, production architecture, ownership, resources, lifecycle, and long-term solution.
+
+This refinement does not make enterprise governance inherently superior to experimentation, create a universal production framework, lock chapter architecture, authorize publication of internal evidence, or centrally promote the insight into The Way/Dang Genome.
