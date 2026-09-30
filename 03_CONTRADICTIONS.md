@@ -112,7 +112,7 @@ These are development prompts, not new evidence or a universal autonomy formula.
 - Is a revised bargaining minimum an informed tradeoff or surrender of a genuine limit?
 - Can refusal or deferral be more responsible than agreement?
 
-These test `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md`. A well-reasoned decision with a disappointing outcome remains an open source-development question.
+These test `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md`. The LAUP handoff now supplies a concrete candidate for a well-reasoned decision with a disappointing outcome; continue testing that distinction with independent cases.
 
 ## Outcome quality can mislead the audit
 
