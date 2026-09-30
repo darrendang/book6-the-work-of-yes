@@ -1,6 +1,6 @@
 # Book 6 — Sync and Google Drive Index
 
-**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-29  
+**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-30  
 **Authority rule:** Memory provides continuity. GitHub determines current state.
 
 This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Codex. It does not itself expand the scope of Book 6 canon, lock a final title, create chapter architecture, authorize publication, or settle Book 6's formal relationship to The Way.
@@ -20,8 +20,11 @@ Current project operating files:
 - `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — approved quality/sufficiency/authority refinement
 - `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` — retained exploratory methods and bridge
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — external HBR convergence and Book 6 possibility/judgment distinction
+- `08_STORY_CARDS_v0.1_2026-09-25.md` — historical noncanonical Story Card development state
 - `08_STORY_CARDS_v0.2_2026-09-25.md` — historical noncanonical Story Card development state
-- `13_STORY_CARDS_v0.3_2026-09-30.md` — current noncanonical Story Card development instrument; includes September 30 retest of B6-SC-006/007 against controls 10 and 12
+- `13_STORY_CARDS_v0.3_2026-09-30.md` — historical noncanonical development state; pair-specific latest-spine retest
+- `14_STORY_CARDS_v0.4_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; full latest-spine retest of all seven cards
+- `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
 
@@ -56,6 +59,8 @@ Purpose: readable Google Drive mirror of the approved Book 6 intellectual spine,
 Status:
 
 **MIRROR / WORKING-EVIDENCE SURFACE / NOT INDEPENDENT AUTHORITY**
+
+Audit note: this mirror was identified as stale at the start of the September 30 audit because its content stopped at the September 18 state. It is being refreshed to include the additive September 29 controls and current development pointers. GitHub remains authoritative.
 
 Coverage note: the existing native document preserves the earlier intellectual-spine mirror. The September 29 refinement is represented by the current additive mirror:
 
@@ -213,3 +218,19 @@ Canonization is not publication.
 - Complete original dialogue/audio remains SOURCE_GAP. The source derivative is not independently authoritative canon.
 - Method sequence, detailed trust components, cross-book bridge, architecture, and publication retain their stated boundaries.
 - Canon mirror: Drive ID `17CZJxMOrSyUMudiYWshGv2uBuibQjWTV` in Book6/project-control. Mirror only; GitHub control governs.
+
+## September 30 full-asset audit
+
+Current audit control: `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md`.
+
+Key routing results:
+
+- Story Cards v0.4 is the current development instrument.
+- v0.1, v0.2, and v0.3 remain historical development states.
+- The seven-card set contains four case-like cards, one conceptual metaphor, one conceptual failure mode, and one external research convergence; card count must not be treated as story count.
+- Both Matt origin PDFs remain present in `Book6/artifacts`, but current Drive text extraction exposes only the PDF-portfolio wrapper. Their embedded contents were not re-verified in the September 30 pass.
+- The HBR PDF and derived source note were directly readable and consistent with control 07.
+- September 29 private mining derivatives remain governed evidence with their documented SOURCE_GAP boundaries.
+- The Drive current-canonical-state mirror required refresh; GitHub remains authority regardless of mirror freshness.
+
+Development gaps remain open for concrete easy-yes failure, public-safe decision authority, reciprocal trust, negotiated sufficiency, and a well-reasoned decision with a disappointing outcome.
