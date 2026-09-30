@@ -126,7 +126,7 @@ Countertests:
 - Were the criteria and tradeoffs explicit before the outcome was known?
 - Would the same process still be defensible across repeated similar decisions, not merely this one result?
 
-Book 6 still lacks a fully developed source-grounded case of a well-reasoned decision that produced a disappointing outcome. Preserve this as an active evidence gap rather than manufacturing one from an existing story.
+Book 6 now has a concrete candidate in `B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome`. Treat it as evidence to test, not as proof of a universal principle. Continue seeking independent cases in which decision quality and outcome quality diverge.
 
 ## Latest-spine misuse tests
 
@@ -136,3 +136,16 @@ Book 6 still lacks a fully developed source-grounded case of a well-reasoned dec
 - Is **negotiated sufficiency** being used to waive a genuine legal, ethical, safety, fiduciary, or other non-negotiable guardrail?
 - Is a changed standard supported by new understanding, or merely altered to rationalize the preferred answer?
 - Is a bounded next step being misrepresented as proof of eventual success?
+
+
+## Handoff hindsight trap
+
+The LAUP handoff case creates a specific countertest:
+
+- Does the disappointing later trajectory actually show the original transfer decision was wrong, or only that transfer carried risks that later materialized?
+- Are later disagreements being projected backward into what the original decision-makers could reasonably know?
+- Would preserving more control have reduced continuity risk while creating a different governance or conflict-of-interest problem?
+- Is successor autonomy being treated as legitimate only when the successor reaches the same answer?
+- What continuity mechanisms could have been designed without converting a transfer of authority into nominal delegation with retained control?
+
+Do not rewrite the story as “handoff was a mistake” merely because the outcome disappointed the original architects. Also do not assume the handoff was necessarily optimal merely because the conflict-of-interest rationale was principled. The case is valuable precisely because both propositions remain testable.
