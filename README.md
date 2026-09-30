@@ -51,6 +51,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `05_CANON_INTELLECTUAL_SPINE.md` — governing question, Earn the Decision, Avoidance Principle, and premature certainty
 - `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — approved refinement: decision quality, sufficiency, authority, visible tradeoffs, and conditional stopping
 - `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` — retained exploratory methods, developmental lens, and cross-book working bridge
+- `13_STORY_CARDS_v0.3_2026-09-30.md` — current noncanonical Story Card development instrument; carries forward v0.2 and retests the September 16 private-source pair against the September 29 refined spine
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
