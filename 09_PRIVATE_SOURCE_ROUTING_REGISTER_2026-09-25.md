@@ -146,3 +146,23 @@ Shared membership in one morning conversation does not make the individual examp
 - `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`
 
 Detailed source contents remain private. Primary-source hierarchy, privacy restrictions, source exclusions, and exact raw-evidence locations are retained in the governed private source note.
+
+
+## B6-PS-2026-09-30-05
+
+**Intake:** 2026-09-30 Pacific.  
+**Class:** PRIVATE FAMILY / EDUCATIONAL DECISION MEMORY + CURRENT DARREN REFLECTION.  
+**Governed private source note:** `BOOK6_2026-09-30_CALTECH_PERSON_OPTION_FIT_SOURCE_NOTE` — Drive ID `1-aG8_p6wFZMg17ySRS3AcfpfoF1QIlVEs2UK6Jw-Vs0`, in `Book6/artifacts`.  
+**Public disclosure:** ABSTRACT DECISION LEARNING + MINIMUM SAFE ROUTING ONLY.
+
+### Canonical derivative
+
+- `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md`
+
+### Evidence boundary
+
+The private source distinguishes Darren's current recollection, family interview material, present-day interpretation, and unresolved counterfactuals. The public control does not state or imply that another school, career, or path would have been better.
+
+### Publication boundary
+
+Detailed family history, educational counterfactuals, and identifying narrative material remain private unless separately reviewed and authorized. Canonization adopts the transferable conceptual distinctions, not publication permission.
