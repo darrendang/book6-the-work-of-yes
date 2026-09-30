@@ -29,6 +29,8 @@ Current project operating files:
 - `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` — canonical outcome-quality/handoff refinement and LAUP provenance case
 - `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md` — canonical easy-yes / prototype-to-production refinement
 - `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` — canonical morning refinement: different decision environments require different work
+- `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` — canonical cross-source interview-evidence refinement
+- `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical provisional architecture test
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -281,3 +283,15 @@ This source closes the prior evidence gap for a concrete easy-yes case while pre
 - The individual examples share one conversation source cluster and are not independent corroborations.
 
 No new public Story Cards were created from this source cluster in this canonization pass because the current examples are privacy-sensitive and the conceptual control is sufficient for public routing.
+
+
+## September 30 interview-evidence source intake
+
+- Source ID: `B6-PS-2026-09-30-04`.
+- Governed private source note: `BOOK6_2026-09-30_INTERVIEW_DECISION_EVIDENCE_SOURCE_NOTE` — Drive ID `1B_SpJrRYq5AmrOoI2QQe73KN1HygJzIBzEgMHdVC5zU`, in `Book6/artifacts`.
+- Bryan Hernandez primary interview audio is preserved privately in `Book6/artifacts`; exact raw-audio routing is retained in the private source note rather than repeated in public control.
+- Canonical derivative: `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md`.
+- Development derivative: `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`.
+- Detailed family, employment, relationship, and living-person evidence remains private.
+- Primary audio governs exact quotation where available; machine transcripts are navigation aids.
+- The architecture map is a test structure only and does not lock Parts or chapters.
