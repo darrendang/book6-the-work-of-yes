@@ -122,3 +122,37 @@ The proposed anatomy, techniques, developmental cycle, and D.O.T.S./CREATE/Book 
 ## 10. Evening refinement — values, trust, and negotiation
 
 Read `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md` for approved conceptual scope. Test how values and criteria define enough, widening and focusing serve different functions, trust is reciprocal, and parties negotiate sufficiency. Techniques and sequences remain hypotheses. Seek examples where criteria were revised through learning and counterexamples where thresholds were lowered merely to reach agreement.
+
+## 11. Latest-spine synthesis — enough has an object
+
+The September 29 refinements make clear that sufficiency is not a free-floating amount of evidence.
+
+Ask:
+
+> **Enough for what, and according to whose priorities?**
+
+Material values, benefits, costs, constraints, consequences, and responsibilities give “enough” its meaning. Evidence can show whether an option meets criteria; evidence alone does not choose the criteria.
+
+## 12. Changing a standard requires an account
+
+A decision-maker may legitimately revise a threshold, minimum, criterion, or continuation standard after learning.
+
+The development test is:
+
+> **What would make this choice sufficient—and what would justify changing that standard?**
+
+A revised standard can represent learning, negotiated tradeoff, or changing conditions. It can also disguise rationalization, fatigue, pressure, or a desire to obtain agreement. Preserve what changed and why.
+
+## 13. Grounded sufficiency is bounded
+
+Grounded sufficiency means enough understanding to justify the **particular choice or next step** while uncertainty remains.
+
+A guarded next step does not prove eventual success or justify every later commitment. Reassess when stakes, evidence, conditions, or consequences materially change.
+
+## 14. Decision quality and outcome quality are not the same
+
+A well-reasoned decision can produce a disappointing outcome because uncertainty remains. A weak decision process can also produce a favorable outcome by luck.
+
+Book 6 should therefore avoid evaluating past decisions solely by results. Preserve what was knowable, what remained uncertain, what criteria governed, and whether the work was sufficient at the time.
+
+**Development status:** conceptually important / concrete story still needed.
