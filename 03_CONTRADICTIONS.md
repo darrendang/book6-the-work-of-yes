@@ -186,3 +186,23 @@ Countertests:
 - Is later evidence being used to judge the later continuation decision, or improperly projected backward into the original commitment?
 
 The framework should make uncertainty and authority more visible, not provide more sophisticated language for rationalizing a preferred answer.
+
+
+## Interview-evidence misuse tests
+
+The September 30 interview sweep creates additional ways the Book 6 framework could be misused.
+
+Countertests:
+
+- Is **experience as a map** quietly becoming a script because the new person or context differs?
+- Is **situated knowledge** being invoked to ignore genuine expertise, law, safety, fiduciary responsibility, or other guardrails?
+- Is **distributed decision work** blurring who is actually accountable for the final choice?
+- Is **demonstrated judgment** being generalized outside the domain in which it was earned?
+- Is **incremental confidence** producing useful evidence, or creating commitment creep that makes later stopping harder?
+- Is a small step genuinely reversible, or merely psychologically framed as small?
+- Is a personal method being respected because it works, or tolerated despite evidence that it does not?
+- Is trust reducing unnecessary inquiry, or causing the decision-maker to miss current contrary evidence?
+- Is the phrase “not my decision” preserving agency, or avoiding an actual duty to intervene?
+- Has prior success made the decision-maker overconfident that the same process will work again?
+
+The interview evidence should increase humility about who knows what. It must not become a new vocabulary for avoiding accountability.
