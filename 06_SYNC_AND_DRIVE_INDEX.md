@@ -20,7 +20,8 @@ Current project operating files:
 - `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — approved quality/sufficiency/authority refinement
 - `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` — retained exploratory methods and bridge
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — external HBR convergence and Book 6 possibility/judgment distinction
-- `08_STORY_CARDS_v0.2_2026-09-25.md` — current noncanonical Story Card development instrument
+- `08_STORY_CARDS_v0.2_2026-09-25.md` — historical noncanonical Story Card development state
+- `13_STORY_CARDS_v0.3_2026-09-30.md` — current noncanonical Story Card development instrument; includes September 30 retest of B6-SC-006/007 against controls 10 and 12
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
 
