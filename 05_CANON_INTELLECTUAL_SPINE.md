@@ -109,3 +109,24 @@ Adopted inquiry:
 The case shows that a single apparent yes can conceal distinct commitments to the objective, experiment, prototype, implementation, production architecture, ownership, resources, lifecycle, and long-term solution.
 
 This refinement does not make enterprise governance inherently superior to experimentation, create a universal production framework, lock chapter architecture, authorize publication of internal evidence, or centrally promote the insight into The Way/Dang Genome.
+
+
+## September 30 refinement — same spine, different decision work
+
+`20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` is an additive refinement of this spine.
+
+The governing question remains unchanged. The adopted companion question is:
+
+> **What kind of work does this decision require before confidence is warranted?**
+
+The refinement adopts:
+
+> **Different decisions require different work.**
+
+Depending on context, earning the decision may require decomposition, negotiation, preserving rightful decision authority, accumulated evidence, reciprocal trust, perspective-taking, or explicit treatment of uncertainty that cannot be eliminated before action.
+
+It also preserves a canonical open question:
+
+> **Can a decision be earned when some of the evidence required to judge it can only exist after you act?**
+
+This refinement does not create a universal decision algorithm, chapter architecture, publication authority, or central The Way/Dang Genome adoption.
