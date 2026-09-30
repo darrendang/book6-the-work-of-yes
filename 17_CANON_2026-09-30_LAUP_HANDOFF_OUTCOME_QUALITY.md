@@ -112,9 +112,15 @@ Canonization preserves the case and its decision meaning. It does not authorize 
 
 The exact Book 6 conceptual ownership remains here.
 
-The private Dang Genome / Dang OS may preserve LAUP as a key Darren career work, source history, and Decision Memory case and may adopt the decision-quality/outcome-quality distinction at scoped ecosystem level.
+The private Dang Genome / Dang OS has now adopted this scoped learning under `darrendang/dang-genome/00_Canon_Control/LAUP_CAREER_WORK_AND_DECISION_MEMORY_CANON_2026-09-30.md`.
 
-This does **not** settle Book 6's formal governance relationship to The Way.
+Central records are:
+
+- `WRK-0006` — LAUP Master Plan and launch support (2003–2005), canonical key career work;
+- `SRC-0047` — LAUP career-work and handoff research/source route;
+- `DG-000020` — **Decision Quality Is Not Outcome Quality**.
+
+Book 6 retains exact authority over the developing case and intellectual treatment. The central adoption makes the career work and scoped learning available to Dang OS/Genome memory; it does **not** settle Book 6's formal governance relationship to The Way.
 
 ## Development status
 
