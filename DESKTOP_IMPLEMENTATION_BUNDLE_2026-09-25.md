@@ -1,6 +1,15 @@
 # Book 6 — Desktop Implementation Bundle — 2026-09-25
 
-**Status:** HUMAN-APPROVED DEVELOPMENT DIRECTION / NONCANONICAL UNTIL IMPLEMENTED AND REVIEWED
+**Status:** HISTORICAL IMPLEMENTATION BUNDLE / IMPLEMENTED / SUPERSEDED BY CURRENT DEVELOPMENT CONTROLS
+
+## Supersession note
+
+The work routed by this bundle was subsequently implemented: private-source routing was established and the two public-safe derivatives were created. This file is retained as a historical handoff record, not as a current task list.
+
+Current development pointers:
+- `14_STORY_CARDS_v0.4_2026-09-30.md` — current Story Card/evidence-card instrument
+- `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — current safe source routing
+- `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current audit disposition
 
 ## Purpose
 Preserve the approved Story Card / provenance work for the next desktop pass while keeping Book 6 architecture open.
