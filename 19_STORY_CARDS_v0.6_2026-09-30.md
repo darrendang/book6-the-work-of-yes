@@ -251,9 +251,9 @@ For future Book 6 cases, preserve:
 
 ## B6-SC-006 — From 100% No to an Integrated Method
 
-**Evidence type:** PRIVATE LIVING-PERSON TESTIMONY / PUBLIC-SAFE DERIVATIVE / RAW SOURCE LOCATION SOURCE_GAP
+**Evidence type:** PRIVATE LIVING-PERSON TESTIMONY / PUBLIC-SAFE DERIVATIVE / PRIMARY AUDIO RECOVERED / TRANSCRIPT VERIFICATION OPEN
 
-**Source / provenance:** Public-safe derivative of private source `B6-PS-2026-09-16-01`, a September 16, 2026 living-person conversation. The raw recording/transcript location is not currently verified and remains **SOURCE_GAP**. Provenance note: the captured exchange was not a conventional Darren-to-participant interview; a substantial portion involved AI-mediated elicitation. Source testimony, AI questions, and later Book 6 interpretation must remain distinct.
+**Source / provenance:** Public-safe derivative of private source `B6-PS-2026-09-16-01`, a September 16, 2026 living-person conversation. The primary audio was recovered in governed private Drive on September 30 and is registered in the private recovery note. A complete independently verified transcript remains open. Provenance note: the captured exchange was not a conventional Darren-to-participant interview; a substantial portion involved AI-mediated elicitation. Source testimony, AI questions, Darren's later reflection, and Book 6 interpretation must remain distinct.
 
 **Decision at stake:** Whether an initial categorical rejection of a proposed method should end the inquiry, or whether the underlying objective could be achieved in another form.
 
@@ -285,7 +285,7 @@ For future Book 6 cases, preserve:
 
 **Privacy / publication boundary:** This card is intentionally anonymized. Names, employer/client identifiers, project identifiers, and re-identifying operational details remain outside public GitHub. The private source must remain traceable through `B6-PS-2026-09-16-01` once its governed raw location is recovered.
 
-**Open questions / source gaps:** Raw recording/transcript location is **SOURCE_GAP**. Exact quotations, chronology, and implementation specifics must not be asserted from this derivative alone.
+**Open questions / source gaps:** Raw-audio location is no longer a source gap. Exact quotations, chronology, and implementation specifics still require direct verification against the recovered primary audio; the derivative alone is insufficient.
 
 ---
 
@@ -293,7 +293,7 @@ For future Book 6 cases, preserve:
 
 **Evidence type:** PRIVATE LIVING-PERSON TESTIMONY / PUBLIC-SAFE DERIVATIVE / RAW SOURCE LOCATION SOURCE_GAP
 
-**Source / provenance:** Public-safe derivative of the same private source `B6-PS-2026-09-16-01`. Raw recording/transcript location remains **SOURCE_GAP**. The card preserves the source participant's reported experience without exposing identity or sensitive organizational detail.
+**Source / provenance:** Public-safe derivative of the same private source `B6-PS-2026-09-16-01`. The primary audio is now recovered in governed private Drive; a complete independently verified transcript remains open. The card preserves the source participant's reported experience without exposing identity or sensitive organizational detail.
 
 **Decision at stake:** Whether commitment to an objective should continue after strategy, sponsorship, or approach has been changed and the accumulating evidence still points toward stopping.
 
@@ -325,7 +325,7 @@ For future Book 6 cases, preserve:
 
 **Privacy / publication boundary:** Anonymized public-safe derivative only. No living-person identity, employer/client identity, or re-identifying detail should be added without separate permission.
 
-**Open questions / source gaps:** Raw artifact remains **SOURCE_GAP**. Preserve the distinction between source testimony, AI elicitation, and later interpretation.
+**Open questions / source gaps:** Primary audio is recovered. Exact quotations and chronology remain subject to direct audio verification. Preserve the distinction between source testimony, AI elicitation, Darren's later reflection, and Book 6 interpretation.
 
 ## Yin-yang pair
 
