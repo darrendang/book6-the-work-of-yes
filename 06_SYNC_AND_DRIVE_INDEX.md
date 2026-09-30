@@ -235,7 +235,7 @@ Key routing results:
 - September 29 private mining derivatives remain governed evidence with their documented SOURCE_GAP boundaries.
 - The Drive current-canonical-state mirror required refresh; GitHub remains authority regardless of mirror freshness.
 
-Development gaps remain open for concrete easy-yes failure, public-safe decision authority, reciprocal trust, negotiated sufficiency, and a well-reasoned decision with a disappointing outcome.
+Development gaps remain open for a concrete easy-yes failure, additional public-safe decision-authority cases, reciprocal trust, negotiated sufficiency, and independent cases that further test decision quality versus outcome quality. The LAUP handoff is now the first concrete disappointing-outcome candidate.
 
 
 ## September 30 LAUP handoff source intake
