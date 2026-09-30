@@ -102,3 +102,14 @@ Read `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` for exact scope
 ## September 29 evening refinement
 
 `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md` adopts values and criteria as the basis of sufficiency, widening and focusing perspective, grounded sufficiency, reciprocal trust, and negotiated thresholds. It preserves conditional judgment, private source boundaries, and open method/architecture questions.
+
+
+### September 30 LAUP outcome-quality canon
+
+`17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` canonizes the distinction **decision quality is not outcome quality**, admits the LAUP conflict-free handoff as the first canonical Book 6 provenance case for a well-reasoned decision with a disappointing downstream outcome, and adopts the inquiry:
+
+> **What understanding must survive a handoff even when the authority to decide changes hands?**
+
+Scoped private ecosystem adoption is complete in `darrendang/dang-genome/00_Canon_Control/LAUP_CAREER_WORK_AND_DECISION_MEMORY_CANON_2026-09-30.md`, with LAUP recorded as key career work `WRK-0006`, source route `SRC-0047`, and native principle `DG-000020`.
+
+This cross-project adoption does not settle Book 6's formal relationship to The Way or authorize publication.
