@@ -87,3 +87,7 @@ Do not force a chapter architecture yet. Continue mining independent examples un
 **Earn the decision** now explicitly distinguishes decision quality, decision sufficiency, and decision authority. Do enough work for warranted confidence; recognize when more inquiry is unlikely to change the choice; and ask whether the decision belongs to you.
 
 Read `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` for exact scope and provenance. Private examples remain governed evidence. Architecture and the formal The Way relationship remain open.
+
+## September 29 evening refinement
+
+`12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md` adopts values and criteria as the basis of sufficiency, widening and focusing perspective, grounded sufficiency, reciprocal trust, and negotiated thresholds. It preserves conditional judgment, private source boundaries, and open method/architecture questions.

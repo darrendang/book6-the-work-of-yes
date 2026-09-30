@@ -102,3 +102,14 @@ Use `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` without turning 
 - Has a later outcome been projected backward into what was supposedly known at decision time?
 
 These are development prompts, not new evidence or a universal autonomy formula. Preserve the possibility of earned yes, earned no, and justified deferral.
+
+## September 29 evening countertests
+
+- Were criteria changed because of new understanding or to rationalize the preferred answer?
+- Does narrowing exclude a material alternative or inconvenient evidence?
+- Does a guarded next step justify only that step, or is it being mistaken for proof of eventual success?
+- Is trust reciprocal while authority, accountability, and oversight remain clear?
+- Is a revised bargaining minimum an informed tradeoff or surrender of a genuine limit?
+- Can refusal or deferral be more responsible than agreement?
+
+These test `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md`. A well-reasoned decision with a disappointing outcome remains an open source-development question.

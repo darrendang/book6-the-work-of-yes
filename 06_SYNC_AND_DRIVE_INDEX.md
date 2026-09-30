@@ -203,3 +203,12 @@ Canonized core ideas are not chapter architecture.
 Architecture is not manuscript canon.
 
 Canonization is not publication.
+
+## September 29 evening approved refinement
+
+- Conceptual control: `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md`.
+- Source route: `B6-PS-2026-09-29-02` in the private-source routing register.
+- Preserved mining derivative: `Book6_Evening_Conversation_Mining_2026-09-29.md` — Drive ID `1H8fP_3manblZTZfsyS3clkZwOyE4pbLZ`.
+- Complete original dialogue/audio remains SOURCE_GAP. The source derivative is not independently authoritative canon.
+- Method sequence, detailed trust components, cross-book bridge, architecture, and publication retain their stated boundaries.
+- Canon mirror: Drive ID `17CZJxMOrSyUMudiYWshGv2uBuibQjWTV` in Book6/project-control. Mirror only; GitHub control governs.
