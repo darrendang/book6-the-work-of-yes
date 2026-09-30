@@ -61,6 +61,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` — canonical refinement: same governing spine, different kinds of decision work; authority, trust, earned efficiency, listening-before-no, and irreducible uncertainty
 - `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` — cross-source interview evidence: experience as map not script, situated knowledge, distributed decision work, delegated latitude, and incremental confidence
 - `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical test architecture; five editorial movements, explicitly not a final Part/chapter map
+- `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — first architecture stress test; five movements survive, with contradiction mining now the highest-value next phase
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
@@ -70,7 +71,7 @@ The nine-card public development set remains heterogeneous and is not an exhaust
 
 Decision authority, reciprocal trust, negotiated sufficiency, accumulated evidence, and family-range diversity are no longer primarily single-source gaps. The highest-value remaining targets are now contradiction cases: weak process / favorable outcome, bounded experimentation that creates harmful commitment creep, and irreducible uncertainty used as a rationalization for reckless action.
 
-The evidence base is now broad enough to test a provisional architecture. That does not make the current five-movement map final.
+The evidence base is now broad enough to test a provisional architecture. The first stress test confirms that the five movements remain coherent and distinct enough to continue testing. That does not make the map final.
 
 ## Synchronization and authority
 
