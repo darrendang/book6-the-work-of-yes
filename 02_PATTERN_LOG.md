@@ -155,4 +155,21 @@ A well-reasoned decision can produce a disappointing outcome because uncertainty
 
 Book 6 should therefore avoid evaluating past decisions solely by results. Preserve what was knowable, what remained uncertain, what criteria governed, and whether the work was sufficient at the time.
 
-**Development status:** conceptually important / concrete story still needed.
+**Development status:** conceptually important / a concrete candidate case is now preserved in `B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome`. Continue testing it against additional cases rather than treating one story as proof.
+
+
+## 15. Transfer of authority creates continuity risk
+
+The LAUP handoff case adds a distinct tension to decision authority:
+
+**conflict-free transfer / successor autonomy ↔ continuity / fidelity to the original decision rationale**
+
+A genuine transfer of authority necessarily permits a successor to exercise different judgment. Retaining enough control to guarantee the original answer can undermine the meaning of the transfer itself.
+
+This raises a new development question:
+
+> **What understanding must survive a handoff even when the authority to decide changes hands?**
+
+Possible continuity mechanisms—decision rationale, criteria, guardrails, institutional memory, transition structures, or explicit stewardship expectations—remain development hypotheses until supported by additional cases.
+
+The case also demonstrates that responsible decision-making may **change the risk profile rather than eliminate risk**. Avoiding a conflict-of-interest risk can increase continuity or interpretation risk. The work is to make those tradeoffs visible at decision time, not to pretend a clean choice removes uncertainty.
