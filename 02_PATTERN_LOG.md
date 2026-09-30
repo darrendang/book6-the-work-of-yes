@@ -118,3 +118,7 @@ Approved conceptual refinement: `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AU
 Track separately whether a choice is justified, whether further inquiry is likely to improve it, and whether the decision is actually yours. Make material tradeoffs visible. Continued inquiry can itself avoid deciding, but stopping before sufficient understanding remains the opposite failure.
 
 The proposed anatomy, techniques, developmental cycle, and D.O.T.S./CREATE/Book 6 bridge remain hypotheses in `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md`. They are not chapter architecture. Source-derived private examples are routed through `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md`.
+
+## 10. Evening refinement — values, trust, and negotiation
+
+Read `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md` for approved conceptual scope. Test how values and criteria define enough, widening and focusing serve different functions, trust is reciprocal, and parties negotiate sufficiency. Techniques and sequences remain hypotheses. Seek examples where criteria were revised through learning and counterexamples where thresholds were lowered merely to reach agreement.

@@ -69,3 +69,7 @@ This spine governs inquiry but does not predetermine the book's eventual structu
 `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` is the approved refinement of this spine: decision quality, sufficiency, and authority; visible tradeoffs; warranted confidence; and the conditional stopping question. The September 16 governing question and principles above remain intact.
 
 `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` preserves the proposed anatomy, methods, developmental lens, and cross-book bridge at their exploratory maturity. This refinement does not lock architecture or settle Book 6’s formal relationship to The Way.
+
+## September 29 evening refinement — additive lineage
+
+`12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md` develops what enough serves, how perspective is focused, reciprocal trust, and negotiated sufficiency. It preserves the governing spine and the separate questions of quality, sufficiency, and authority. Exact conceptual approval does not create a finished method or amend source-project authority.

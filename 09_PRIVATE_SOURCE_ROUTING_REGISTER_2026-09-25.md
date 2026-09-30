@@ -47,3 +47,14 @@ Traceability does not create publication permission. Any future use of identifyi
 Darren explicitly approved the abstract refinements for Book 6 and scoped central adoption. `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` governs that conceptual scope; `11_WORKING_METHOD_HYPOTHESES_2026-09-29.md` preserves the working hypotheses.
 
 The source’s private examples remain attributed source material. Approval does not independently corroborate the recollection, make candidate assistant language a verbatim morning quotation, or authorize publication of private details.
+
+## B6-PS-2026-09-29-02
+
+**Intake:** September 29 evening, Pacific.
+**Class:** ATTRIBUTED CONVERSATION RETRIEVAL SUMMARY / ASSISTANT MINING AND INTERPRETATION.
+**Preserved source derivative:** `Book6_Evening_Conversation_Mining_2026-09-29.md` — Drive ID `1H8fP_3manblZTZfsyS3clkZwOyE4pbLZ`, governed Book6/artifacts.
+**Original complete dialogue/audio:** SOURCE_GAP — not inspected.
+**Approval:** Darren explicitly approved the preceding reviewed mining synthesis for Book 6: “canonize and save for book 6”.
+**Conceptual control:** `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md`.
+
+The original mining note remains a historical development artifact. Approval adopts the abstract concepts at the control's stated scope, not independent corroboration, exact quotations, source outcomes, publication permission, or a finished framework. Private exclusions remain in force. Public routing contains no sensitive example details.
