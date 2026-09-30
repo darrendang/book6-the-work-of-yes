@@ -121,8 +121,8 @@ These refinements do not create a universal algorithm. They sharpen the work req
 
 ### Open outcome-quality question
 
-A sound decision process does not guarantee a favorable outcome, and a favorable outcome does not prove the decision process was sound. Book 6 still needs a developed case of a well-reasoned decision that produced a disappointing outcome. Do not use hindsight to rewrite what was knowable at decision time.
+A sound decision process does not guarantee a favorable outcome, and a favorable outcome does not prove the decision process was sound. `B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome` is now a concrete candidate case for this distinction. Continue testing it against independent cases. Do not use hindsight to rewrite what was knowable at decision time.
 
 ### Current development instrument
 
-`14_STORY_CARDS_v0.4_2026-09-30.md` is the current noncanonical Story Card/evidence-card instrument. It distinguishes lived/professional cases from conceptual counterweights, conceptual failure modes, and external research rather than treating all cards as equivalent evidence.
+`16_STORY_CARDS_v0.5_2026-09-30.md` is the current noncanonical Story Card/evidence-card instrument. It distinguishes lived/professional cases from conceptual counterweights, conceptual failure modes, and external research rather than treating all cards as equivalent evidence.
