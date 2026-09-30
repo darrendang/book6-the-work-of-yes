@@ -342,6 +342,8 @@ The pair is useful because Book 6 is not a book about saying yes. It is a book a
 
 ## B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome
 
+**Canonical status:** B6-SC-008 is admitted as canonical provenance under `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md`; this Story Card remains a noncanonical development instrument for analysis and future manuscript use.
+
 **Evidence type:** FIRSTHAND PROFESSIONAL CASE + PUBLIC CORROBORATION / PRIVATE CAUSAL INTERPRETATION
 
 **Source / provenance:** Public-safe derivative of private source `B6-PS-2026-09-30-01`. Governed private source note: `BOOK6_2026-09-30_LAUP_MASTER_PLAN_HANDOFF_SOURCE_NOTE`, Drive ID `1xWnmS12ro9JgH-RcL82xaP9z3dEewnC1PBbrn46TlMM`. Public sources independently establish the Master Plan, broad collaborative planning, consulting-team participation, LAUP's separate organizational creation, substantial implementation activity, and later program reach. Darren's conflict-of-interest rationale and assessment of later divergence remain attributed firsthand recollection.
