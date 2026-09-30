@@ -62,6 +62,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` — cross-source interview evidence: experience as map not script, situated knowledge, distributed decision work, delegated latitude, and incremental confidence
 - `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical test architecture; five editorial movements, explicitly not a final Part/chapter map
 - `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — first architecture stress test; five movements survive, with contradiction mining now the highest-value next phase
+- `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` — option quality vs. person–option fit; trusted external judgment, self-inquiry, and later fit evidence
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
@@ -186,3 +187,22 @@ Current architecture judgment:
 **ENOUGH TO STRUCTURE: YES.**
 
 **ENOUGH TO LOCK: NO.**
+
+
+### September 30 person–option fit refinement
+
+`24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` adopts:
+
+> **Option quality is not the same as person–option fit.**
+
+and:
+
+> **Trusted judgment can carry relevant external evidence; it does not eliminate the chooser’s need for self-inquiry.**
+
+Adopted inquiry:
+
+> **Have we evaluated how good the option is—or how good the option is for this person?**
+
+The refinement also recognizes that some fit evidence may emerge only after living a choice. Later self-knowledge is valid new evidence but does not retroactively prove the original decision was unreasonable or that another path would have been better.
+
+The underlying family evidence remains private under `B6-PS-2026-09-30-05`. This refinement does not alter or lock the current five-movement architecture.
