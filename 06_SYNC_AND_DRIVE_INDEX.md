@@ -28,6 +28,7 @@ Current project operating files:
 - `19_STORY_CARDS_v0.6_2026-09-30.md` — current noncanonical Story Card/evidence-card development instrument; includes B6-SC-009 easy yes / prototype is not production
 - `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` — canonical outcome-quality/handoff refinement and LAUP provenance case
 - `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md` — canonical easy-yes / prototype-to-production refinement
+- `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` — canonical morning refinement: different decision environments require different work
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -266,3 +267,17 @@ This source now supports the first canonical provenance case for the decision-qu
 - Final organizational decision remains open in the inspected source; do not label the case an earned no without separate verification.
 
 This source closes the prior evidence gap for a concrete easy-yes case while preserving the architecture guardrail.
+
+
+## September 30 morning decision-work source intake
+
+- Source ID: `B6-PS-2026-09-30-03`.
+- Governed private note: `BOOK6_2026-09-30_MORNING_DECISION_WORK_SOURCE_NOTE` — Drive ID `1NTySHYyVGW6G7iffa472sButn-jBbjMDLfot3Fxtu4E`, in `Book6/artifacts`.
+- Canonical derivative: `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md`.
+- Complete raw audio/verbatim transcript remains SOURCE_GAP in the current execution.
+- Detailed professional and family examples remain private; public GitHub contains only abstract decision learning.
+- The source cluster strengthens negotiated sufficiency, decision authority, reciprocal trust, accumulated evidence, and listening-before-no.
+- Irreducible uncertainty before action is canonicalized as an OPEN QUESTION, not as a solved method.
+- The individual examples share one conversation source cluster and are not independent corroborations.
+
+No new public Story Cards were created from this source cluster in this canonization pass because the current examples are privacy-sensitive and the conceptual control is sufficient for public routing.
