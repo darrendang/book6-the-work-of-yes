@@ -184,3 +184,22 @@ HBR recommends noticing and deliberately creating positive “dots” and using 
 **Open question:** What understanding, criteria, and rationale must survive a handoff so that a new decision-maker can exercise real authority without losing the work that made the original direction intelligible?
 
 **Privacy / publication boundary:** Do not identify or blame successor leadership. Causal claims about later divergence remain attributed source recollection unless independently corroborated.
+
+
+## Dot 014 — Easy yes / prototype is not production
+
+**Date / provenance:** September 30, 2026 intake; private professional source `B6-PS-2026-09-30-02`.
+
+**Public-safe pattern:** A staff-developed prototype addressed a legitimate operational need and deserved encouragement. Darren's initial support reflected a desire to encourage citizen development. Deeper enterprise review surfaced architecture, security, support, ownership, lifecycle, governance, and opportunity-cost work not visible in the prototype.
+
+**Decision lesson:** Support for the idea is not the same as support for every implementation.
+
+> **What exactly are we saying yes to?**
+
+Separate the objective, experiment, prototype, production architecture, enterprise ownership, resource commitment, lifecycle, and long-term solution.
+
+**Classification:** PREMATURE YES → DEEPER INQUIRY → DECISION DECOMPOSITION → CORRECTED BEFORE COMMITMENT.
+
+**Canonical provenance:** `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md`.
+
+**Privacy:** Public-safe abstract only. Internal professional details remain in governed private evidence.
