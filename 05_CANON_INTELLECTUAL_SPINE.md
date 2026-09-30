@@ -130,3 +130,28 @@ It also preserves a canonical open question:
 > **Can a decision be earned when some of the evidence required to judge it can only exist after you act?**
 
 This refinement does not create a universal decision algorithm, chapter architecture, publication authority, or central The Way/Dang Genome adoption.
+
+
+## September 30 refinement — interview evidence expansion
+
+`21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` is an additive refinement of this spine.
+
+The governing question remains unchanged.
+
+The interview sweep adds:
+
+> **A prior decision can create a map without becoming a template.**
+
+> **Decision authority does not imply informational completeness.**
+
+> **The work of earning a decision can be distributed even when final decision authority is not.**
+
+> **Confidence can be earned incrementally.**
+
+It also adopts:
+
+> **What must I understand about the person making the choice—not just the choice itself?**
+
+These refinements strengthen decision authority, trust, situated knowledge, and bounded action under uncertainty without creating a universal decision algorithm.
+
+The evidence is now sufficient for a provisional architecture test in `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`. That map is noncanonical development structure, not final Parts or chapters.
