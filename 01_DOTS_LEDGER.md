@@ -163,3 +163,24 @@ HBR recommends noticing and deliberately creating positive “dots” and using 
 **Decision lesson:** A changed threshold should be justified by new understanding or an explicit tradeoff, not by the mere desire to reach agreement.
 
 **Status:** PRIVATE-SOURCE ABSTRACT / NEEDS SOURCE-GROUNDED BARGAINING CASE.
+
+
+## Dot 013 — Conflict-free handoff / disappointing outcome
+
+**Date / provenance:** September 30, 2026 intake; Darren firsthand professional recollection + public corroboration; private source `B6-PS-2026-09-30-01`.
+
+**Public-safe pattern:** A large, participatory planning effort produced a comprehensive implementation vision and a separate organization to carry it forward. The original consultants deliberately did not seek to run the implementation organization because they wanted to avoid the conflict—or appearance of conflict—of designing the plan and then placing themselves in control of its execution.
+
+**Decision at stake:** Whether to retain implementation control to protect continuity or transfer authority to independent successor leadership.
+
+**Decision quality:** The handoff can be evaluated as an ethically grounded governance choice based on information and values available at the time.
+
+**Outcome:** Public evidence shows that substantial parts of the initiative were implemented and achieved meaningful scale. Darren nevertheless experienced the later trajectory as a disappointing departure from important parts of the community-developed vision. Do not collapse this into a claim that LAUP or the Master Plan simply “failed.”
+
+**Decision lesson:** **Decision quality and outcome quality are not the same.** A well-reasoned transfer of authority can produce a downstream result the original decision-maker would not have chosen.
+
+**Authority tension:** conflict-free transfer / successor autonomy ↔ continuity / fidelity to the original decision rationale and community-developed vision.
+
+**Open question:** What understanding, criteria, and rationale must survive a handoff so that a new decision-maker can exercise real authority without losing the work that made the original direction intelligible?
+
+**Privacy / publication boundary:** Do not identify or blame successor leadership. Causal claims about later divergence remain attributed source recollection unless independently corroborated.
