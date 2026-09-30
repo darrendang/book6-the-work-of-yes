@@ -245,3 +245,27 @@ Open question:
 > **Can a decision be earned when some of the evidence required to judge it can only exist after you act?**
 
 Risk ownership, accountability, reversibility, bounded commitments, review conditions, and intended learning remain hypotheses to test rather than a finished method.
+
+
+## 23. Interview evidence expansion
+
+The September 30 cross-source interview sweep moved several patterns from source-thin hypotheses to recurring Book 6 development canon.
+
+Adopted through `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md`:
+
+- experience is evidence, not a script;
+- a prior decision can create a map without becoming a template;
+- general expertise and situated knowledge are different;
+- decision authority does not imply informational completeness;
+- the work of earning a decision can be distributed even when final authority is not;
+- demonstrated judgment can justify greater delegated latitude within an appropriate scope;
+- confidence can be earned incrementally;
+- different responsible people may use different methods to meet the same objective.
+
+New adopted inquiry:
+
+> **What must I understand about the person making the choice—not just the choice itself?**
+
+The evidence now supports provisional architecture testing. See `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`.
+
+The map remains noncanonical and must be stress-tested against counterexamples before any formal Part/chapter lock.
