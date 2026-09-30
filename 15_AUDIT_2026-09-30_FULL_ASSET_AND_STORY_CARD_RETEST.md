@@ -163,3 +163,25 @@ The current evidence-balance count after this intake is:
 - **one external research convergence:** SC-005.
 
 The prior gap for a concrete easy-yes case is now closed. Architecture remains open.
+
+
+## Post-audit intake — September 30 morning decision-work cluster
+
+Later on September 30, Darren approved canonization of the reviewed morning conversation mining.
+
+**Private source:** `B6-PS-2026-09-30-03`  
+**Governed Drive note:** `BOOK6_2026-09-30_MORNING_DECISION_WORK_SOURCE_NOTE` — Drive ID `1NTySHYyVGW6G7iffa472sButn-jBbjMDLfot3Fxtu4E`  
+**Canonical control:** `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md`.
+
+The source cluster materially strengthens previously thin evidence around:
+- negotiated sufficiency;
+- decision authority;
+- reciprocal trust;
+- accumulated evidence / earned efficiency;
+- listening-before-no.
+
+It also opens a new canonical **OPEN QUESTION** around decisions that must be made before all material evidence can exist.
+
+The complete raw audio/verbatim transcript was not recovered in the current execution, so the source remains attributed conversation evidence rather than verbatim transcript evidence.
+
+No new public Story Cards were created from this cluster in the canonization pass because the examples are privacy-sensitive and share a single source lineage. Continue seeking independent public-safe cases and counterexamples before inferring architecture.
