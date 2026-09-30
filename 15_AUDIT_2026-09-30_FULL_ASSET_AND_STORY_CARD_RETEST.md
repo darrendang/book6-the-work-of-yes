@@ -142,3 +142,24 @@ The evidence-balance count after this intake is now:
 - **one external research convergence:** SC-005.
 
 Architecture remains open.
+
+
+## Post-audit intake — easy yes / prototype to production
+
+Later on September 30, Darren supplied the first concrete professional case addressing the audit's easy-yes evidence gap.
+
+**Private source:** `B6-PS-2026-09-30-02`  
+**Governed Drive note:** `BOOK6_2026-09-30_VISITOR_LOG_EASY_YES_SOURCE_NOTE` — Drive ID `1UYQHG6gmR1TQRV6OAsOt1am-6hmQAo-3bp8ESDoyC1Q`  
+**Public-safe derivative:** `B6-SC-009 — Prototype Is Not Production` in `19_STORY_CARDS_v0.6_2026-09-30.md`.  
+**Canonical control:** `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md`.
+
+The case is classified as **premature yes → deeper inquiry → decision decomposition → corrected before commitment**, not as a failed project.
+
+The current evidence-balance count after this intake is:
+
+- **six case-like lived/professional cards:** SC-001, SC-002, SC-006, SC-007, SC-008, SC-009;
+- **one conceptual metaphor:** SC-003;
+- **one conceptual failure mode:** SC-004;
+- **one external research convergence:** SC-005.
+
+The prior gap for a concrete easy-yes case is now closed. Architecture remains open.
