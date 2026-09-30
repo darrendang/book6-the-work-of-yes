@@ -32,6 +32,7 @@ Current project operating files:
 - `21_CANON_2026-09-30_INTERVIEW_EVIDENCE_AND_PROGRESSIVE_SUFFICIENCY.md` — canonical cross-source interview-evidence refinement
 - `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical provisional architecture test
 - `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — noncanonical first stress test of the five movements
+- `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` — canonical person–option fit / trusted-judgment refinement
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -305,3 +306,13 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Result: all five provisional movements survive the first stress test.
 - Current architecture status remains: enough to structure, not enough to lock.
 - Highest-value next phase: contradiction mining and counterexample qualification rather than collecting additional confirming stories indiscriminately.
+
+
+## September 30 person–option fit source intake
+
+- Source ID: `B6-PS-2026-09-30-05`.
+- Governed private source note: `BOOK6_2026-09-30_CALTECH_PERSON_OPTION_FIT_SOURCE_NOTE` — Drive ID `1-aG8_p6wFZMg17ySRS3AcfpfoF1QIlVEs2UK6Jw-Vs0`, in `Book6/artifacts`.
+- Canonical derivative: `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md`.
+- Public GitHub carries only the transferable distinctions among external option quality, person–option fit, trusted evidence, self-inquiry, and later fit learning.
+- Counterfactual alternatives and private family details remain private and unresolved; no claim is made that another path would have been better.
+- This source does not close the separate weak-process / favorable-outcome contradiction gap.
