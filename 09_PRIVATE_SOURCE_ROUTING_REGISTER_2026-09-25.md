@@ -7,8 +7,9 @@
 
 **Date:** 2026-09-16  
 **Class:** PRIVATE LIVING-PERSON TESTIMONY / VOICE-CONVERSATION SOURCE  
-**Raw recording/transcript location:** **SOURCE_GAP — NOT VERIFIED**  
-**Drive search performed:** 2026-09-25 Pacific; no governed raw recording/transcript was identified in the Book 6 Drive workspace or by targeted title/name search.  
+**Primary audio:** **RECOVERED IN GOVERNED PRIVATE DRIVE ON 2026-09-30**  
+**Transcript / exact-quotation status:** complete independently verified transcript remains open; exact wording must be checked against the primary audio before publication.  
+**Private recovery note:** `BOOK6_2026-09-16_PRIMARY_AUDIO_RECOVERY_NOTE` — governed in `Book6/artifacts`.  
 **Public disclosure:** MINIMUM NECESSARY ROUTING ONLY
 
 ### Interaction boundary
@@ -27,9 +28,9 @@ The captured exchange should not be described as a conventional Darren-to-partic
 
 The public cards intentionally remove names, employer/client identifiers, sensitive operational detail, and re-identifying combinations of facts.
 
-### Recovery rule
+### Recovery status
 
-If the raw recording/transcript is later found, register its exact governed location privately first, verify identity, preserve the raw bytes, and then update this public route only with the minimum safe status/identifier needed. Do not backfill exact quotations or chronology from memory merely because the source has been located.
+The primary audio has now been recovered and privately registered. Do not backfill exact quotations or chronology from memory or derivative cards. The remaining source work is transcription / quotation verification against the audio.
 
 ### Publication boundary
 
