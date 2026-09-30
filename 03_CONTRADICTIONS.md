@@ -149,3 +149,22 @@ The LAUP handoff case creates a specific countertest:
 - What continuity mechanisms could have been designed without converting a transfer of authority into nominal delegation with retained control?
 
 Do not rewrite the story as “handoff was a mistake” merely because the outcome disappointed the original architects. Also do not assume the handoff was necessarily optimal merely because the conflict-of-interest rationale was principled. The case is valuable precisely because both propositions remain testable.
+
+
+## Easy-yes overcorrection tests
+
+The first concrete easy-yes case must not be used to create a new easy no.
+
+Countertests:
+
+- Does enterprise-governance analysis legitimately surface material risk, or is process being used to kill useful experimentation?
+- Is production rigor being incorrectly imposed on low-risk prototyping?
+- Could a bounded pilot preserve learning without assuming full enterprise ownership?
+- Are hidden costs actually material to the decision, or merely available reasons to resist change?
+- Is the organization separating “not ready for production” from “not worth exploring”?
+- Are expert concerns widening judgment, or simply substituting one function's preferences for the decision-maker's?
+- Is the planned long-term solution sufficiently real and timely to justify deferral, or is it being used as an indefinite reason not to act?
+
+Book 6 should protect both sides:
+
+**do not productionize merely because a prototype works; do not suppress experimentation merely because production is hard.**
