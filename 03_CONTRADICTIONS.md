@@ -206,3 +206,21 @@ Countertests:
 - Has prior success made the decision-maker overconfident that the same process will work again?
 
 The interview evidence should increase humility about who knows what. It must not become a new vocabulary for avoiding accountability.
+
+
+## Person–option fit misuse tests
+
+The person–option fit refinement creates additional misuse risks.
+
+Countertests:
+
+- Is **person–option fit** being used to dismiss objectively relevant expertise, quality, safety, cost, or other material external evidence?
+- Is **self-inquiry** being treated as if the chooser must already possess mature self-knowledge before making any consequential choice?
+- Is **trusted judgment** being dismissed merely because the chooser did not personally repeat the advisor’s research?
+- Is reliance on a trusted advisor becoming **borrowed certainty** that suppresses the chooser’s own preferences, values, or emerging judgment?
+- Is later self-knowledge being projected backward as something the chooser supposedly should have known earlier?
+- Is a favorable later life being used to prove an option was uniquely best?
+- Is a later sense of mismatch being used to prove the original choice was wrong?
+- Are counterfactual alternatives being narrated as outcomes rather than possibilities?
+
+The refinement should increase attention to fit and self-knowledge without converting hindsight into certainty or individual preference into the only valid decision criterion.
