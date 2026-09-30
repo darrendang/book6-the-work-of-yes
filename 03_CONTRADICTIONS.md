@@ -113,3 +113,26 @@ These are development prompts, not new evidence or a universal autonomy formula.
 - Can refusal or deferral be more responsible than agreement?
 
 These test `12_CANON_2026-09-29_EVENING_VALUES_TRUST_AND_NEGOTIATED_SUFFICIENCY.md`. A well-reasoned decision with a disappointing outcome remains an open source-development question.
+
+## Outcome quality can mislead the audit
+
+A disappointing result does not prove that the decision was poor, and a favorable result does not prove that the decision was well earned.
+
+Countertests:
+
+- Was the information available at the time sufficient for the choice, even though uncertainty later resolved badly?
+- Did a good outcome come from sound judgment or from luck?
+- Is hindsight importing later facts into the earlier decision?
+- Were the criteria and tradeoffs explicit before the outcome was known?
+- Would the same process still be defensible across repeated similar decisions, not merely this one result?
+
+Book 6 still lacks a fully developed source-grounded case of a well-reasoned decision that produced a disappointing outcome. Preserve this as an active evidence gap rather than manufacturing one from an existing story.
+
+## Latest-spine misuse tests
+
+- Is **grounded sufficiency** being used to rename impatience?
+- Is **decision authority** being used to abandon a real duty or to paternalistically take over another person's choice?
+- Is **reciprocal trust** being used to blur accountability or domain limits?
+- Is **negotiated sufficiency** being used to waive a genuine legal, ethical, safety, fiduciary, or other non-negotiable guardrail?
+- Is a changed standard supported by new understanding, or merely altered to rationalize the preferred answer?
+- Is a bounded next step being misrepresented as proof of eventual success?
