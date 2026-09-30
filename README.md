@@ -58,6 +58,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — full GitHub/Drive asset audit, evidence-balance findings, stale-state repairs, and development gaps
 - `17_CANON_2026-09-30_LAUP_HANDOFF_OUTCOME_QUALITY.md` — canonical decision-quality vs. outcome-quality distinction and LAUP handoff provenance case
 - `18_CANON_2026-09-30_EASY_YES_PROTOTYPE_TO_PRODUCTION.md` — canonical easy-yes / prototype-to-production distinction and adopted inquiry “What exactly are we saying yes to?”
+- `20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` — canonical refinement: same governing spine, different kinds of decision work; authority, trust, earned efficiency, listening-before-no, and irreducible uncertainty
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
@@ -65,7 +66,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 The current nine-card development set is heterogeneous: six case-like lived/professional cards, one conceptual metaphor, one conceptual failure mode, and one external research convergence. Do not treat card count as story count or as evidence for chapter architecture.
 
-Current under-developed areas include additional public-safe decision-authority cases, reciprocal trust, negotiated sufficiency, and independent cases that further test decision quality versus outcome quality. The LAUP handoff is now the first canonical provenance case for a well-reasoned decision with a disappointing downstream outcome.
+Current under-developed areas include independent public-safe cases and counterexamples for decision authority, reciprocal trust, negotiated sufficiency, and irreducible uncertainty, plus additional cases that test decision quality versus outcome quality. The September 30 morning source cluster now provides canonical private provenance for the first three, but shared source lineage is not independent corroboration. The LAUP handoff is now the first canonical provenance case for a well-reasoned decision with a disappointing downstream outcome.
 
 ## Synchronization and authority
 
@@ -132,3 +133,20 @@ and adopts the inquiry:
 > **What exactly are we saying yes to?**
 
 The detailed internal professional evidence remains private. Public Book 6 controls carry only the transferable decision pattern. This does not create chapter architecture or central ecosystem adoption.
+
+
+### September 30 same-spine / different-work canon
+
+`20_CANON_2026-09-30_SAME_SPINE_DIFFERENT_DECISION_WORK.md` adopts the companion question:
+
+> **What kind of work does this decision require before confidence is warranted?**
+
+and the refinement:
+
+> **Different decisions require different work.**
+
+The control also adopts bounded learning around negotiated sufficiency, decision authority, trust as evidence, earned efficiency, and listening before no, while preserving as an open question:
+
+> **Can a decision be earned when some of the evidence required to judge it can only exist after you act?**
+
+Detailed morning examples remain private. The complete raw audio/verbatim transcript remains a source gap in the current execution. This does not create chapter architecture or central ecosystem adoption.
