@@ -33,6 +33,7 @@ Current project operating files:
 - `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical provisional architecture test
 - `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — noncanonical first stress test of the five movements
 - `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` — canonical person–option fit / trusted-judgment refinement
+- `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md` — canonical outcome-process / commitment-sizing / revisable-trust refinement
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -316,3 +317,14 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Public GitHub carries only the transferable distinctions among external option quality, person–option fit, trusted evidence, self-inquiry, and later fit learning.
 - Counterfactual alternatives and private family details remain private and unresolved; no claim is made that another path would have been better.
 - This source does not close the separate weak-process / favorable-outcome contradiction gap.
+
+
+## September 30 afternoon voice-conversation source intake
+
+- Source ID: `B6-PS-2026-09-30-06`.
+- Governed private source note: `BOOK6_2026-09-30_AFTERNOON_VOICE_CONVERSATION_MINING` — Drive ID `1kVeJr9peGUFCpmNH-9DbDli2JsFt8YT4YPIJL209hCs`, in `Book6/artifacts`.
+- Source class: recovered prior-conversation context / preserved session summary; raw voice audio was not freshly inspected in the canonization execution.
+- Canonical derivative: `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md`.
+- Public GitHub carries only the transferable abstractions: favorable outcomes do not validate weak process; commitment should be sized to confidence; bounded steps must remain bounded; irreducible uncertainty does not license unbounded risk; trust evidence is contextual and revisable; ongoing commitments may need explicit review conditions.
+- Detailed financial, family, and living-person employment material remains private.
+- Exact quotations remain publication-ineligible until primary-source verification.
