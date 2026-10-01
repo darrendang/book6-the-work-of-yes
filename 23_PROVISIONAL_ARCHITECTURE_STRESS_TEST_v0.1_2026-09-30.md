@@ -141,7 +141,7 @@ A case in which delegated latitude appropriately had to be narrowed or intervent
 
 ## Movement V — Decide Without Certainty
 
-**Status:** CONCEPTUALLY STRONG / COUNTEREXAMPLE BALANCE STILL DEVELOPING.
+**Status:** STRONG / CONTRADICTION BALANCE MATERIALLY IMPROVED.
 
 Editorial job: resolve the false promise that sufficient inquiry eliminates uncertainty.
 
@@ -162,14 +162,16 @@ This movement carries:
 - handoff risk;
 - post-decision learning.
 
-Current priority gap:
+The September 30 afternoon voice-source cluster, canonized in `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md`, now supplies private provenance for four previously under-developed contradiction classes:
 
-- weak or narrow process with favorable outcome;
-- bounded experiment that creates harmful commitment creep;
-- “we cannot know until we act” used to rationalize reckless action;
-- accumulated trust that becomes stale.
+- under-developed process with a favorable outcome;
+- bounded start that becomes commitment creep;
+- trust / prior competence that does not transfer cleanly to a new context;
+- delegated latitude that may need to narrow when materially contrary evidence accumulates.
 
-A private family-source lead was reviewed against this gap. Current evidence does not support a clean weak-process / lucky-outcome classification. It instead produced the canonical person–option fit refinement in `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md`: a trusted advisor may understand the external quality of an option while the chooser's person-option fit remains less explored. The lucky-outcome gap therefore remains open.
+These are no longer pure conceptual gaps. Independent, public-safe, and primary-source-verified cases remain valuable before manuscript lock.
+
+A separate private family-source lead did not fit the lucky-outcome quadrant and instead produced the person–option fit refinement in `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md`.
 
 **Decision:** retain and prioritize contradiction mining.
 
@@ -264,13 +266,13 @@ It is whether the strongest stories are:
 
 Move from confirmation to contradiction.
 
-Highest-value targets:
+Highest-value targets now shift from finding first examples to strengthening and breaking the new contradiction canon:
 
-1. narrow / weak process with favorable outcome;
-2. bounded experimentation that creates commitment creep;
-3. irreducible uncertainty used as reckless rationalization;
-4. trust that becomes stale;
-5. delegated latitude that appropriately must be narrowed.
+1. independent / public-safe favorable-outcome / weak-process cases;
+2. cases where commitment sizing cannot realistically be staged;
+3. cases where “we cannot know until we act” is legitimate despite large irreversible stakes;
+4. cases where trust appropriately survives a difficult transition rather than being revised too quickly;
+5. cases where intervention would have been premature and preserving delegated latitude was still the better choice.
 
 ## Architecture status
 
