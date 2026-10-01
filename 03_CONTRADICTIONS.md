@@ -224,3 +224,21 @@ Countertests:
 - Are counterfactual alternatives being narrated as outcomes rather than possibilities?
 
 The refinement should increase attention to fit and self-knowledge without converting hindsight into certainty or individual preference into the only valid decision criterion.
+
+
+## Outcome-process / commitment / revisable-trust countertests
+
+The September 30 afternoon voice refinement closes several conceptual gaps while creating important misuse tests.
+
+- Is a favorable outcome being used to excuse an under-developed decision process?
+- Is a disappointing outcome being used to condemn a process that was reasonable given what was knowable?
+- Is **size the commitment to confidence** being misused to avoid necessarily indivisible choices?
+- Is a supposedly bounded step actually creating financial, emotional, reputational, or organizational lock-in?
+- Does the next commitment require fresh judgment, or is the first yes silently pre-authorizing escalation?
+- Is **“we cannot know until we act”** identifying genuine irreducible uncertainty, or rationalizing risk that could have been reduced before action?
+- Are review conditions substantive enough to trigger reconsideration, or merely decorative?
+- Is trust being revised because materially relevant evidence changed, or withdrawn because of one mistake, discomfort, bias, or impatience?
+- Is prior competence being generalized into a domain where the underlying evidence does not transfer?
+- Is intervention actually required by responsibility, or merely preferred by the more senior person?
+
+The purpose is not to make every decision reversible, every commitment small, or every relationship conditional. The purpose is to keep process quality, commitment size, uncertainty, and trust responsive to relevant evidence.
