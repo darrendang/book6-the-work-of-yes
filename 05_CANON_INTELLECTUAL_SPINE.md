@@ -176,3 +176,34 @@ It also adopts the inquiry:
 Some evidence about fit may emerge only after living the choice. Later self-knowledge can improve future judgment without being projected backward as evidence that the original choice was necessarily unreasonable.
 
 This refinement strengthens the existing person-and-decision inquiry, distributed decision work, decision authority, and irreducible uncertainty. It does not create a verdict on the private provenance case, a universal fit test, chapter architecture, publication authority, or central The Way/Dang Genome adoption.
+
+
+## September 30 refinement — outcome process, commitment sizing, and revisable trust
+
+`25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md` is an additive refinement of this spine.
+
+It makes the decision-quality / outcome-quality distinction explicitly symmetric:
+
+> **A favorable outcome does not prove that the decision was well earned.**
+
+It also adopts:
+
+> **A decision can be too large for the confidence that has actually been earned.**
+
+> **A bounded step is only bounded if the next commitment must be earned again.**
+
+For uncertainty that can only be reduced through action, it adds the guardrail:
+
+> **“We cannot know until we act” does not by itself justify how much we risk.**
+
+For trust and delegated responsibility, it adds:
+
+> **Evidence of competence is contextual.**
+
+> **Previously earned trust should remain responsive to new relevant evidence.**
+
+For ongoing revisable commitments, it adopts:
+
+> **What materially new evidence would cause me to reconsider?**
+
+These refinements strengthen decision sufficiency, progressive confidence, irreducible uncertainty, trust-as-evidence, and decision authority without creating a universal stop-loss formula or a new chapter architecture.
