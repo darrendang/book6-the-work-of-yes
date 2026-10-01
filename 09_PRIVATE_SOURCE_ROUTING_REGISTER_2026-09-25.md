@@ -166,3 +166,24 @@ The private source distinguishes Darren's current recollection, family interview
 ### Publication boundary
 
 Detailed family history, educational counterfactuals, and identifying narrative material remain private unless separately reviewed and authorized. Canonization adopts the transferable conceptual distinctions, not publication permission.
+
+
+## B6-PS-2026-09-30-06
+
+**Intake:** 2026-09-30 Pacific.  
+**Class:** PRIVATE RECOVERED VOICE-CONVERSATION CONTEXT / DARREN SOURCE STATEMENTS + APPROVED MINING.  
+**Governed private source note:** `BOOK6_2026-09-30_AFTERNOON_VOICE_CONVERSATION_MINING` — Drive ID `1kVeJr9peGUFCpmNH-9DbDli2JsFt8YT4YPIJL209hCs`, in `Book6/artifacts`.  
+**Raw audio status:** NOT FRESHLY INSPECTED IN THE CANONIZATION EXECUTION.  
+**Public disclosure:** ABSTRACT DECISION LEARNING + MINIMUM SAFE ROUTING ONLY.
+
+### Canonical derivative
+
+- `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md`
+
+### Evidence boundary
+
+The private derivative preserves recovered Darren source statements and separately labeled Book 6 interpretation. Approval adopts the abstract decision learning; it does not independently corroborate exact chronology, financial amounts, private employment judgments, or verbatim wording.
+
+### Publication boundary
+
+Do not publish exact quotations, private financial/family details, or identifying living-person employment material from this derivative alone. Primary-source verification and separate publication review remain required.
