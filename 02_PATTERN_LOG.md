@@ -269,3 +269,29 @@ New adopted inquiry:
 The evidence now supports provisional architecture testing. See `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md`.
 
 The map remains noncanonical and must be stress-tested against counterexamples before any formal Part/chapter lock.
+
+
+## 24. Outcome process, commitment sizing, and revisable trust
+
+Approved conceptual refinement: `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md`.
+
+The source cluster strengthens the contradiction side of Book 6:
+
+- favorable outcome does not prove the process was well earned;
+- commitment size should reflect confidence actually earned where staging is possible;
+- a bounded first step does not remain bounded if later commitments are added without fresh judgment;
+- irreducible uncertainty does not itself justify how much downside is accepted;
+- trust as evidence is contextual and must remain responsive to materially new evidence;
+- ongoing revisable commitments may need explicit review conditions.
+
+Adopted inquiries include:
+
+> **If the outcome had gone the other way, would I still defend the decision process?**
+
+> **What would have to become true before I commit more?**
+
+> **Is the trust I am relying on supported by evidence that still applies here?**
+
+> **What materially new evidence would cause me to reconsider?**
+
+The default-choice pattern remains developmental rather than canon.
