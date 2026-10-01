@@ -284,3 +284,21 @@ Before this map can become a formal outline, test at least:
 **ENOUGH TO LOCK: NO.**
 
 The current evidence has earned a provisional architecture test, not a final outline.
+
+
+## September 30 contradiction-canon update
+
+`25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md` materially strengthens the evidence under Movements III, IV, and V.
+
+New canonical pressure points include:
+
+- favorable outcomes can follow under-developed process;
+- commitment can outrun confidence;
+- bounded starts can become commitment creep;
+- irreducible uncertainty does not justify unbounded downside;
+- trust evidence may fail to transfer across materially different contexts;
+- ongoing commitments may need explicit review conditions.
+
+This strengthens the existing five-movement architecture rather than requiring another movement.
+
+The map remains noncanonical and does not lock Parts or chapters.
