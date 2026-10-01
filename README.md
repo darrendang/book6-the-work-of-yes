@@ -63,6 +63,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `22_PROVISIONAL_ARCHITECTURE_MAP_v0.1_2026-09-30.md` — noncanonical test architecture; five editorial movements, explicitly not a final Part/chapter map
 - `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — first architecture stress test; five movements survive, with contradiction mining now the highest-value next phase
 - `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` — option quality vs. person–option fit; trusted external judgment, self-inquiry, and later fit evidence
+- `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md` — favorable-outcome/weak-process mirror; commitment sizing; bounded-step discipline; revisable trust; review conditions
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
@@ -70,7 +71,7 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 The nine-card public development set remains heterogeneous and is not an exhaustive count of Book 6 evidence. The September 30 interview sweep adds independent source families across professional, mentor, colleague, spouse, parent-child, sibling, and reader-reaction material while keeping private/living-person evidence outside public GitHub.
 
-Decision authority, reciprocal trust, negotiated sufficiency, accumulated evidence, and family-range diversity are no longer primarily single-source gaps. The highest-value remaining targets are now contradiction cases: weak process / favorable outcome, bounded experimentation that creates harmful commitment creep, and irreducible uncertainty used as a rationalization for reckless action.
+Decision authority, reciprocal trust, negotiated sufficiency, accumulated evidence, and family-range diversity are no longer primarily single-source gaps. The September 30 afternoon voice-source cluster now also supplies private provenance for four previously under-developed contradiction classes: under-developed process with a favorable outcome, commitment creep after a bounded start, trust that does not transfer cleanly across contexts, and delegated latitude that may need to narrow as contrary evidence accumulates. Independent and public-safe cases remain valuable before manuscript lock.
 
 The evidence base is now broad enough to test a provisional architecture. The first stress test confirms that the five movements remain coherent and distinct enough to continue testing. That does not make the map final.
 
@@ -206,3 +207,30 @@ Adopted inquiry:
 The refinement also recognizes that some fit evidence may emerge only after living a choice. Later self-knowledge is valid new evidence but does not retroactively prove the original decision was unreasonable or that another path would have been better.
 
 The underlying family evidence remains private under `B6-PS-2026-09-30-05`. This refinement does not alter or lock the current five-movement architecture.
+
+
+### September 30 outcome-process / commitment / revisable-trust refinement
+
+`25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md` adopts the mirror of the existing outcome-quality canon:
+
+> **A favorable outcome does not prove that the decision was well earned.**
+
+It also adopts:
+
+> **A decision can be too large for the confidence that has actually been earned.**
+
+> **A bounded step is only bounded if the next commitment must be earned again.**
+
+and the counterweight to trust-as-evidence:
+
+> **Evidence of competence is contextual.**
+
+> **Previously earned trust should remain responsive to new relevant evidence.**
+
+For ongoing revisable commitments, it adds the inquiry:
+
+> **What materially new evidence would cause me to reconsider?**
+
+The underlying voice-source cluster remains private under `B6-PS-2026-09-30-06`; raw audio was not freshly inspected in the canonization execution. Exact quotations and sensitive details remain outside public GitHub.
+
+This refinement materially strengthens Movements III, IV, and V without changing the five-movement architecture.
