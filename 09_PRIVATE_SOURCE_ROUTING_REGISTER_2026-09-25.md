@@ -187,3 +187,34 @@ The private derivative preserves recovered Darren source statements and separate
 ### Publication boundary
 
 Do not publish exact quotations, private financial/family details, or identifying living-person employment material from this derivative alone. Primary-source verification and separate publication review remain required.
+
+
+## B6-PS-2026-10-02-01
+
+**Intake:** 2026-10-02 Pacific.  
+**Class:** PRIVATE LIVING-PERSON CONVERSATION TRANSCRIPT / TASK-SUPPLIED SOURCE.  
+**Inspected source:** task-supplied October 2, 2026 transcript; durable private Library source retained outside public GitHub.  
+**Exact-quotation status:** transcript inspected; primary audio was not independently inspected in this canonization execution.  
+**Public disclosure:** ABSTRACT DECISION LEARNING + MINIMUM SAFE ROUTING ONLY.
+
+### Canonical derivative
+
+- `26_CANON_2026-10-02_PERSISTENCE_METHOD_AND_REFERENCE_RATE.md`
+
+### Evidence contribution
+
+The source independently strengthens existing Book 6 work on outcome/process separation, person–option fit, decision authority, and the cost of waiting versus rushing.
+
+It also supports three adopted refinements:
+
+- persistence is not fidelity to the current method;
+- a prior commitment is not, by itself, evidence that continuing remains warranted;
+- evidence must be interpreted against the result, threshold, or reference rate the decision actually requires.
+
+### Privacy / publication boundary
+
+Do not place the living person's identifying anecdotes, private family details, sensitive background information, third-party employment/history details, or exact quotations in public GitHub or publication without separate source verification and authorization.
+
+The source participant's professional affiliation is not relevant to the Book 6 decision canon and must not be treated as organizational endorsement.
+
+Canonization adopts the transferable abstractions, not the private narrative details.
