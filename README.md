@@ -64,6 +64,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — first architecture stress test; five movements survive, with contradiction mining now the highest-value next phase
 - `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` — option quality vs. person–option fit; trusted external judgment, self-inquiry, and later fit evidence
 - `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md` — favorable-outcome/weak-process mirror; commitment sizing; bounded-step discipline; revisable trust; review conditions
+- `25_CANON_2026-09-30_COST_OF_WAITING_AND_RUSHING.md` — cost of waiting versus cost of rushing as a two-sided decision-sufficiency pressure
+- `26_CANON_2026-10-02_PERSISTENCE_METHOD_AND_REFERENCE_RATE.md` — persistence versus method; prior commitment versus current evidence; interpreting results against the threshold/reference rate the decision requires
 - `06_SYNC_AND_DRIVE_INDEX.md` — current Google Drive mirror, folder IDs, artifact IDs, and synchronization boundary
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
@@ -234,3 +236,18 @@ For ongoing revisable commitments, it adds the inquiry:
 The underlying voice-source cluster remains private under `B6-PS-2026-09-30-06`; raw audio was not freshly inspected in the canonization execution. Exact quotations and sensitive details remain outside public GitHub.
 
 This refinement materially strengthens Movements III, IV, and V without changing the five-movement architecture.
+
+
+### October 2 persistence / method / evidence refinement
+
+`26_CANON_2026-10-02_PERSISTENCE_METHOD_AND_REFERENCE_RATE.md` adopts:
+
+> **Persistence is not fidelity to the current method.**
+
+> **A prior commitment is not, by itself, evidence that continuing remains warranted.**
+
+> **Evidence has meaning only in relation to the result the decision actually requires.**
+
+The October 2 private interview also supplies independent supporting evidence for existing canon on outcome-versus-process quality, person–option fit, decision authority, and the cost of waiting versus rushing.
+
+Detailed living-person source material remains private under `B6-PS-2026-10-02-01`. Exact quotation was not independently audio-verified in this execution. The five-movement architecture remains provisional and unchanged.
