@@ -34,6 +34,8 @@ Current project operating files:
 - `23_PROVISIONAL_ARCHITECTURE_STRESS_TEST_v0.1_2026-09-30.md` — noncanonical first stress test of the five movements
 - `24_CANON_2026-09-30_PERSON_OPTION_FIT_AND_TRUSTED_JUDGMENT.md` — canonical person–option fit / trusted-judgment refinement
 - `25_CANON_2026-09-30_OUTCOME_PROCESS_COMMITMENT_AND_REVISABLE_TRUST.md` — canonical outcome-process / commitment-sizing / revisable-trust refinement
+- `25_CANON_2026-09-30_COST_OF_WAITING_AND_RUSHING.md` — canonical two-sided decision-sufficiency pressure from waiting versus rushing
+- `26_CANON_2026-10-02_PERSISTENCE_METHOD_AND_REFERENCE_RATE.md` — canonical persistence-versus-method and evidence-threshold refinement; private source B6-PS-2026-10-02-01 remains governed by the source-routing register
 - `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md` — current project audit and asset disposition
 - `09_PRIVATE_SOURCE_ROUTING_REGISTER_2026-09-25.md` — minimum public-safe routing for private/source-gap material
 - `06_SYNC_AND_DRIVE_INDEX.md` — this cross-platform routing control
@@ -104,7 +106,7 @@ Current public-safe derivatives:
 - `B6-SC-006 — From 100% No to an Integrated Method`
 - `B6-SC-007 — From Passion to Letting Go`
 
-The full identity and sensitive source detail must remain in governed private storage if/when the raw artifact is recovered.
+The full identity, recovered primary audio and sensitive source detail remain in governed private storage. Recovery does not close transcript, exact-quotation or publication gates.
 
 Detailed source contents should not be copied into the public GitHub repository unless exact public disclosure is explicitly authorized.
 
@@ -234,15 +236,17 @@ Canonization is not publication.
 
 Current audit control: `15_AUDIT_2026-09-30_FULL_ASSET_AND_STORY_CARD_RETEST.md`.
 
-Key routing results:
+Historical routing results from the September 30 full-asset audit follow. They retain their original observation and verification scope. Current development resolves through the current GitHub control list above, README, Story Cards v0.6, and the later exact conceptual and architecture controls.
 
-- Story Cards v0.4 is the current development instrument.
+- Story Cards v0.4 was the development instrument inspected by this audit and is now historical; Story Cards v0.6 is the current public-safe development instrument.
 - v0.1, v0.2, and v0.3 remain historical development states.
 - The seven-card set contains four case-like cards, one conceptual metaphor, one conceptual failure mode, and one external research convergence; card count must not be treated as story count.
 - Both Matt origin PDFs remain present in `Book6/artifacts`, but current Drive text extraction exposes only the PDF-portfolio wrapper. Their embedded contents were not re-verified in the September 30 pass.
 - The HBR PDF and derived source note were directly readable and consistent with control 07.
 - September 29 private mining derivatives remain governed evidence with their documented SOURCE_GAP boundaries.
 - The Drive current-canonical-state mirror required refresh; GitHub remains authority regardless of mirror freshness.
+
+The following gap assessment belongs to this dated audit. Later controls and architecture testing refine the current evidence balance; it is not a renewed current-gap assessment.
 
 Development gaps remain open for additional public-safe decision-authority cases, reciprocal trust, negotiated sufficiency, and independent cases that further test decision quality versus outcome quality. The visitor-log prototype now supplies the first concrete easy-yes / corrected-before-commitment case. The LAUP handoff is now the first concrete disappointing-outcome candidate.
 
@@ -251,7 +255,7 @@ Development gaps remain open for additional public-safe decision-authority cases
 
 - Public-safe source ID: `B6-PS-2026-09-30-01`.
 - Governed private source note: `BOOK6_2026-09-30_LAUP_MASTER_PLAN_HANDOFF_SOURCE_NOTE` — Drive ID `1xWnmS12ro9JgH-RcL82xaP9z3dEewnC1PBbrn46TlMM`, in `Book6/artifacts`.
-- Current public-safe derivative: `B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome` in `16_STORY_CARDS_v0.5_2026-09-30.md`.
+- Public-safe derivative first recorded in `16_STORY_CARDS_v0.5_2026-09-30.md`: `B6-SC-008 — Conflict-Free Handoff / Disappointing Outcome`. Current development inherits this card in `19_STORY_CARDS_v0.6_2026-09-30.md`.
 - Public research corroborates the Master Plan, broad planning participation, consulting-team role, separate LAUP implementation organization, implementation activity, and later scale.
 - Darren's conflict-of-interest rationale and causal interpretation of later divergence remain attributed source statement, not independently corroborated fact.
 - Successor identity is excluded from Book 6 publication use unless Darren explicitly changes that instruction.
