@@ -207,3 +207,44 @@ For ongoing revisable commitments, it adopts:
 > **What materially new evidence would cause me to reconsider?**
 
 These refinements strengthen decision sufficiency, progressive confidence, irreducible uncertainty, trust-as-evidence, and decision authority without creating a universal stop-loss formula or a new chapter architecture.
+
+
+## September 30 refinement — cost of waiting and cost of rushing
+
+`25_CANON_2026-09-30_COST_OF_WAITING_AND_RUSHING.md` is an additive refinement of decision sufficiency.
+
+It adopts:
+
+> **Consider both the cost of waiting and the cost of rushing.**
+
+and the inquiry:
+
+> **What is the cost of waiting—and what is the cost of rushing?**
+
+Delay is not neutral, but neither is speed. The relevant question is whether additional inquiry is likely to improve judgment enough to justify the consequences of waiting, and whether acting sooner is worth the risk created by less inquiry.
+
+This refinement does not make urgency a substitute for evidence or caution a substitute for decision.
+
+## October 2 refinement — persistence, method, and the meaning of evidence
+
+`26_CANON_2026-10-02_PERSISTENCE_METHOD_AND_REFERENCE_RATE.md` is an additive refinement of this spine.
+
+It adopts:
+
+> **Persistence is not fidelity to the current method.**
+
+> **A prior commitment is not, by itself, evidence that continuing remains warranted.**
+
+> **Evidence has meaning only in relation to the result the decision actually requires.**
+
+Adopted inquiries include:
+
+> **What am I actually trying to preserve: the objective, the method, the commitment, or my identity as someone who finishes?**
+
+> **Am I continuing because current evidence supports the commitment—or because stopping would force me to revise the story I tell about myself?**
+
+> **Against what threshold or reference rate should I interpret what is happening?**
+
+This refinement sharpens persistence versus stopping without turning Book 6 into a persistence doctrine. It also requires negative and positive outcomes to be interpreted in context rather than counted mechanically.
+
+The underlying living-person source remains private. This refinement does not lock architecture, authorize publication of identifying anecdotes, or centrally promote the concepts into The Way/Dang Genome.
