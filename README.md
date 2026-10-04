@@ -47,6 +47,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 ## Canon and development records
 
+- `28_CANON_2026-10-04_INTERVIEW_PROMPTS.md` — five approved canonical interview prompts for external story mining; original wording and provisional movement mapping
+
 - `27_EDITORIAL_DIRECTION_2026-10-04_WIDER_HUMAN_EXPERIENCE.md` — approved editorial direction: familiar thinking as a bridge into other people's decision stories; selective author examples; five movements remain provisional
 
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — voice-conversation decision spine and provenance examples
