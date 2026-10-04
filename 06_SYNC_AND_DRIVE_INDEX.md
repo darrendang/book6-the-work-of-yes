@@ -335,3 +335,12 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Public GitHub carries only the transferable abstractions: favorable outcomes do not validate weak process; commitment should be sized to confidence; bounded steps must remain bounded; irreducible uncertainty does not license unbounded risk; trust evidence is contextual and revisable; ongoing commitments may need explicit review conditions.
 - Detailed financial, family, and living-person employment material remains private.
 - Exact quotations remain publication-ineligible until primary-source verification.
+
+
+## October 4 paired decision follow-up approval
+
+- Canonical control: `29_CANON_2026-10-04_PAIRED_DECISION_INQUIRY_AND_FOLLOW_UP.md`.
+- Existing private source: `B6-PS-2026-09-16-01`; developmental pair `B6-SC-006` and `B6-SC-007`.
+- Exact approved five-question companion is saved privately in the Book 6 workspace; public control preserves only the abstract contribution and inquiry priorities.
+- Approval preserves transcript and quotation verification gaps and the distinction between personal stopping judgment and organizational authority.
+- GitHub records current approval. A new Drive mirror of this October 4 control was not created in this pass.
