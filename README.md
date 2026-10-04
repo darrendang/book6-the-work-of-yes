@@ -47,6 +47,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 ## Canon and development records
 
+- `29_CANON_2026-10-04_PAIRED_DECISION_INQUIRY_AND_FOLLOW_UP.md` — approved paired decision contribution and five private follow-up prompts; stopping evidence and personal versus organizational authority remain inquiry priorities
+
 - `28_CANON_2026-10-04_INTERVIEW_PROMPTS.md` — five approved canonical interview prompts for external story mining; original wording and provisional movement mapping
 
 - `27_EDITORIAL_DIRECTION_2026-10-04_WIDER_HUMAN_EXPERIENCE.md` — approved editorial direction: familiar thinking as a bridge into other people's decision stories; selective author examples; five movements remain provisional
