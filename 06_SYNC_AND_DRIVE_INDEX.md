@@ -1,6 +1,6 @@
 # Book 6 — Sync and Google Drive Index
 
-**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-09-30  
+**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-10-04  
 **Authority rule:** Memory provides continuity. GitHub determines current state.
 
 This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Codex. It does not itself expand the scope of Book 6 canon, lock a final title, create chapter architecture, authorize publication, or settle Book 6's formal relationship to The Way.
@@ -10,6 +10,9 @@ This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Code
 Repository: `darrendang/book6-the-work-of-yes`
 
 Current project operating files:
+
+- `27_EDITORIAL_DIRECTION_2026-10-04_WIDER_HUMAN_EXPERIENCE.md` — approved outward narrative direction; architecture remains provisional
+- `28_CANON_2026-10-04_INTERVIEW_PROMPTS.md` — five approved canonical story-mining prompts; exact wording governed by GitHub main
 
 - `README.md` — project orientation and maturity boundary
 - `AGENTS.md` — persistent Codex/operator instructions
