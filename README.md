@@ -47,6 +47,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 ## Canon and development records
 
+- `30_CANON_2026-10-04_INTERVIEW_FOLLOW_UP_PROMPTS.md` — approval of all 18 reviewed private follow-up prompts; reaffirms the general opening and five canonical interview questions
+
 - `29_CANON_2026-10-04_PAIRED_DECISION_INQUIRY_AND_FOLLOW_UP.md` — approved paired decision contribution and five private follow-up prompts; stopping evidence and personal versus organizational authority remain inquiry priorities
 
 - `28_CANON_2026-10-04_INTERVIEW_PROMPTS.md` — five approved canonical interview prompts for external story mining; original wording and provisional movement mapping
