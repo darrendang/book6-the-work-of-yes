@@ -47,6 +47,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 ## Canon and development records
 
+- `27_EDITORIAL_DIRECTION_2026-10-04_WIDER_HUMAN_EXPERIENCE.md` — approved editorial direction: familiar thinking as a bridge into other people's decision stories; selective author examples; five movements remain provisional
+
 - `04_CANON_2026-09-16_VOICE_DECISION_SPINE.md` — voice-conversation decision spine and provenance examples
 - `05_CANON_INTELLECTUAL_SPINE.md` — governing question, Earn the Decision, Avoidance Principle, and premature certainty
 - `10_CANON_2026-09-29_SUFFICIENCY_AND_DECISION_AUTHORITY.md` — approved refinement: decision quality, sufficiency, authority, visible tradeoffs, and conditional stopping
