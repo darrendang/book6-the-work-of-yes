@@ -248,3 +248,14 @@ Adopted inquiries include:
 This refinement sharpens persistence versus stopping without turning Book 6 into a persistence doctrine. It also requires negative and positive outcomes to be interpreted in context rather than counted mechanically.
 
 The underlying living-person source remains private. This refinement does not lock architecture, authorize publication of identifying anecdotes, or centrally promote the concepts into The Way/Dang Genome.
+
+
+## October 6 refinement — effort, role, and inquiry
+
+`31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md` adopts the reviewed distinction between doing substantial work and doing the work the decision actually requires, including role, allocation of effort, opportunity cost, and responsibility where material.
+
+It adopts the inquiry:
+
+> **Can substantial effort on an interesting problem leave the harder responsibility unexamined?**
+
+This remains an inquiry to test, with the counterweight that hands-on work may build necessary understanding. The same control approves five exact private follow-up questions and records primary developmental fit in Movements III and IV, with support for Movement V. Architecture remains provisional; identifying source contents and prompts remain private.

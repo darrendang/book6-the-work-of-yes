@@ -218,3 +218,25 @@ Do not place the living person's identifying anecdotes, private family details, 
 The source participant's professional affiliation is not relevant to the Book 6 decision canon and must not be treated as organizational endorsement.
 
 Canonization adopts the transferable abstractions, not the private narrative details.
+
+
+## B6-PS-2026-10-06-01
+
+**Intake and approval:** 2026-10-06 Pacific.  
+**Class:** PRIVATE LIVING-PERSON INTERVIEW / TASK-SUPPLIED R4 TRANSCRIPT + REVIEWED MINING.  
+**Original source:** preserved in governed `Book6/artifacts` — Drive ID `18mEJRCL0-sMVuPunCtRpfz_QuXPOOctK`.  
+**Private mining and exact approved companion:** Drive ID `1cuPa4LVwiFupJJyTh_MnxJ7ihAjOyD1U`, in `Book6/artifacts`. The canonization addendum governs the approved contribution and exact five-question wording; earlier draft questions remain historical provenance.  
+**Exact-quotation status:** transcript inspected; independent primary-audio verification remains open.  
+**Public disclosure:** TRANSFERABLE CONCEPTS AND MINIMUM SAFE ROUTING ONLY.
+
+### Canonical derivative
+
+- `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md`
+
+### Evidence and approval boundary
+
+Approval adopts the scoped distinction between substantial effort and required decision work, the inquiry about responsibilities left unexamined, existing-canon reinforcement, provisional editorial fit, and the latest five private follow-up questions. It does not independently corroborate historical recollections, source motives, exact dialogue, or unreported outcomes. One interview is one source family.
+
+### Privacy and publication boundary
+
+Raw testimony, source identity, private third-party and professional detail, identifying narrative material, and source-sensitive exact questions remain private. Private interview trust is not publication permission. Identifying use and exact quotations require separate review; the source is not organizational endorsement.

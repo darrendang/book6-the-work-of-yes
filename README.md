@@ -47,6 +47,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 ## Canon and development records
 
+- `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md` — approved effort-versus-required-work contribution, inquiry to test, provisional spine fit, and exact five private follow-up questions
+
 - `30_CANON_2026-10-04_INTERVIEW_FOLLOW_UP_PROMPTS.md` — approval of all 18 reviewed private follow-up prompts; reaffirms the general opening and five canonical interview questions
 
 - `29_CANON_2026-10-04_PAIRED_DECISION_INQUIRY_AND_FOLLOW_UP.md` — approved paired decision contribution and five private follow-up prompts; stopping evidence and personal versus organizational authority remain inquiry priorities

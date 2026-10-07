@@ -1,6 +1,6 @@
 # Book 6 — Sync and Google Drive Index
 
-**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-10-04  
+**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-10-06  
 **Authority rule:** Memory provides continuity. GitHub determines current state.
 
 This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Codex. It does not itself expand the scope of Book 6 canon, lock a final title, create chapter architecture, authorize publication, or settle Book 6's formal relationship to The Way.
@@ -11,6 +11,7 @@ Repository: `darrendang/book6-the-work-of-yes`
 
 Current project operating files:
 
+- `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md` — canonical scoped effort/role contribution and approval of five private follow-up questions; provisional architecture preserved
 - `27_EDITORIAL_DIRECTION_2026-10-04_WIDER_HUMAN_EXPERIENCE.md` — approved outward narrative direction; architecture remains provisional
 - `28_CANON_2026-10-04_INTERVIEW_PROMPTS.md` — five approved canonical story-mining prompts; exact wording governed by GitHub main
 
@@ -344,3 +345,14 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Exact approved five-question companion is saved privately in the Book 6 workspace; public control preserves only the abstract contribution and inquiry priorities.
 - Approval preserves transcript and quotation verification gaps and the distinction between personal stopping judgment and organizational authority.
 - GitHub records current approval. A new Drive mirror of this October 4 control was not created in this pass.
+
+
+## October 6 interview contribution and private follow-up approval
+
+- Canonical control: `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md`.
+- Source route: `B6-PS-2026-10-06-01` in the private-source register.
+- Original transcript: governed `Book6/artifacts` — Drive ID `18mEJRCL0-sMVuPunCtRpfz_QuXPOOctK`.
+- Private mining and exact approved five-question companion: governed `Book6/artifacts` — Drive ID `1cuPa4LVwiFupJJyTh_MnxJ7ihAjOyD1U`. The canonization addendum supersedes the earlier draft set.
+- Approval adopts scoped conceptual learning and the reviewed provisional spine fit; raw evidence remains attributed testimony, not independently corroborated fact.
+- A mirror of control 31 is preserved in `Book6/project-control` under its exact GitHub filename — Drive ID `1r5rMvVtTeeQiubmrHie7CgHksn4S2mO8`. GitHub remains conceptual authority; the private companion governs exact source-sensitive question wording.
+- Primary-audio verification, identifying publication permission, and unresolved source outcomes remain open.
