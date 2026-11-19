@@ -268,3 +268,7 @@ This remains an inquiry to test, with the counterweight that hands-on work may b
 It distinguishes an environment's preferred risk tolerance from justified sufficiency; choosing delegation within understood boundaries from lack of agency; and willingness to accept personal consequences from authority to impose consequences on others.
 
 Detailed evidence and corrections remain private under `B6-PS-2026-11-18-01`. The contribution does not create a sixth movement, lock architecture, establish source events independently, authorize identifying publication, or centrally promote Book 6 into The Way.
+
+## November 18 interview mining refinement
+
+`33_CANON_2026-11-18_IMPLEMENTATION_NEED_AND_STORY_INVENTORY.md` adopts the distinction between a justified refusal of a proposed implementation and the work of addressing the underlying need. The approved inquiry is: **What need, if any, still deserves attention after we reject the proposed way of meeting it?** The control also records private story-development approval and the dated story inventory. Detailed testimony and follow-up wording remain private.

@@ -47,6 +47,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 ## Canon and development records
 
+- `33_CANON_2026-11-18_IMPLEMENTATION_NEED_AND_STORY_INVENTORY.md` — approved distinction between rejecting an implementation and addressing the underlying need, private story development and follow-up prompts, and the November 18 inventory snapshot
+
 - `32_CANON_2026-11-18_DECISION_ENVIRONMENT_AGENCY_AND_CONSEQUENCES.md` — approved contextual contribution on decision environment, agency/delegation, and consequences versus authority; private interview preserved for later mining; architecture remains provisional
 
 - `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md` — approved effort-versus-required-work contribution, inquiry to test, provisional spine fit, and exact five private follow-up questions
@@ -82,6 +84,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 - `07_CANON_2026-09-18_HBR_YES_AND_CONVERGENCE.md` — HBR external convergence; “yes, and” as search operator versus Earn the Decision as decision standard; perpetual possibility failure mode
 
 ### Current evidence balance
+
+The November 18 audit verifies **24 distinct narrative cases available for development** across the reviewed sets: six in the registered public development cards and 18 additional private cases. The nine-card public set also includes three supporting evidence cards. The 24-case count is a lower bound. See control 33 for counting rules and private routing.
 
 The nine-card public development set remains heterogeneous and is not an exhaustive count of Book 6 evidence. The September 30 interview sweep adds independent source families across professional, mentor, colleague, spouse, parent-child, sibling, and reader-reaction material while keeping private/living-person evidence outside public GitHub.
 

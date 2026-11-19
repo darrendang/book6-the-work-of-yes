@@ -11,6 +11,8 @@ Repository: `darrendang/book6-the-work-of-yes`
 
 Current project operating files:
 
+- `33_CANON_2026-11-18_IMPLEMENTATION_NEED_AND_STORY_INVENTORY.md` — approved interview mining contribution, private follow-up and story inventory routing
+
 - `32_CANON_2026-11-18_DECISION_ENVIRONMENT_AGENCY_AND_CONSEQUENCES.md` — approved scoped decision-environment, agency, and consequences contribution; private source capture and gaps recorded
 
 - `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md` — canonical scoped effort/role contribution and approval of five private follow-up questions; provisional architecture preserved
@@ -369,3 +371,9 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Scoped approval covers the decision environment, agency and delegation, and the distinction between accepting consequences and having authority to impose them.
 - Five movements remain provisional. No additional movement, fixed chapter map, identifying publication permission, or central ecosystem adoption is established.
 - A same-scope mirror of control 32 is preserved in `Book6/project-control` — Drive ID `1MOjyAUYP2rtHbHxsZiPzEby483fvCqT_`; GitHub remains conceptual authority. Earlier mirrors retain their recorded coverage and are not assumed refreshed by this addition.
+
+## November 18 interview mining and story inventory
+
+- Canonical control: `33_CANON_2026-11-18_IMPLEMENTATION_NEED_AND_STORY_INVENTORY.md`.
+- Source route: `B6-PS-2026-11-18-01` in the private-source register. The approved mining addendum and exact follow-up questions are routed there.
+- Inventory snapshot: nine registered public development cards, six of them narrative cases. At least 24 distinct narrative cases across the reviewed sets, including 18 additional private cases. This is a development count with open verification and publication questions.

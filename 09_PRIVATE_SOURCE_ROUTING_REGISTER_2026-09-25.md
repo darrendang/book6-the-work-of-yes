@@ -257,3 +257,10 @@ Raw testimony, source identity, private third-party and professional detail, ide
 Approval adopts the scoped decision-environment, agency/delegation, and consequences/authority contribution. It preserves the five movements as provisional. A stated organizational risk culture is not corroboration of actual response to failure; a contemplated action is not a completed outcome. One conversation remains one source family.
 
 Source identities, private narratives, detailed professional and family material, and exact source-sensitive prompts remain private. Primary-source verification and separate identifying publication permission remain required.
+
+### November 18 mining canonization addendum
+
+- Public conceptual control: `33_CANON_2026-11-18_IMPLEMENTATION_NEED_AND_STORY_INVENTORY.md`.
+- Reviewed mining: governed Book6 artifacts, Drive ID `1_LPaAykydE4aWKhsScpUy0ngIU_B7AFm`.
+- Approved private addendum and story inventory: governed Book6 artifacts, Drive ID `1Ncg9eVzjDwFDmtluiawA0mVZuQs1geq7`.
+- The addendum preserves exact private follow-up wording, approved development priorities, evidence limits, and case-count classifications. The seven working units share one interview source family.
