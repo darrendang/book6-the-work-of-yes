@@ -259,3 +259,12 @@ It adopts the inquiry:
 > **Can substantial effort on an interesting problem leave the harder responsibility unexamined?**
 
 This remains an inquiry to test, with the counterweight that hands-on work may build necessary understanding. The same control approves five exact private follow-up questions and records primary developmental fit in Movements III and IV, with support for Movement V. Architecture remains provisional; identifying source contents and prompts remain private.
+
+
+## November 18 refinement — decision environment, agency, and consequences
+
+`32_CANON_2026-11-18_DECISION_ENVIRONMENT_AGENCY_AND_CONSEQUENCES.md` adopts a contextual lens on the environment at the time of a decision: leadership signals, incentives, accountability, tolerance for error, and consequences may influence perceived options and judgments of enough.
+
+It distinguishes an environment's preferred risk tolerance from justified sufficiency; choosing delegation within understood boundaries from lack of agency; and willingness to accept personal consequences from authority to impose consequences on others.
+
+Detailed evidence and corrections remain private under `B6-PS-2026-11-18-01`. The contribution does not create a sixth movement, lock architecture, establish source events independently, authorize identifying publication, or centrally promote Book 6 into The Way.

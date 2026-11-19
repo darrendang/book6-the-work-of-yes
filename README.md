@@ -47,6 +47,8 @@ Neither side is inherently correct. Perspective and judgment determine which res
 
 ## Canon and development records
 
+- `32_CANON_2026-11-18_DECISION_ENVIRONMENT_AGENCY_AND_CONSEQUENCES.md` — approved contextual contribution on decision environment, agency/delegation, and consequences versus authority; private interview preserved for later mining; architecture remains provisional
+
 - `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md` — approved effort-versus-required-work contribution, inquiry to test, provisional spine fit, and exact five private follow-up questions
 
 - `30_CANON_2026-10-04_INTERVIEW_FOLLOW_UP_PROMPTS.md` — approval of all 18 reviewed private follow-up prompts; reaffirms the general opening and five canonical interview questions

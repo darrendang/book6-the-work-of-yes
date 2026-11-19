@@ -240,3 +240,20 @@ Approval adopts the scoped distinction between substantial effort and required d
 ### Privacy and publication boundary
 
 Raw testimony, source identity, private third-party and professional detail, identifying narrative material, and source-sensitive exact questions remain private. Private interview trust is not publication permission. Identifying use and exact quotations require separate review; the source is not organizational endorsement.
+
+
+## B6-PS-2026-11-18-01
+
+**Intake and approval:** 2026-11-18 Pacific.  
+**Class:** PRIVATE LIVING-PERSON VOICE CONVERSATION / TASK-SUPPLIED SRT SEGMENTS + REVIEWED DISCUSSION.  
+**Private capture:** governed `Book6/artifacts` — Drive ID `1AscoVsJYIiNrGo5FQqaf06c0U0WvT9Lz`.  
+**Capture scope:** detailed source digest, selected supplied transcript excerpts, corrections, closing approval, and later-mining queue; not a complete exported transcript.  
+**Primary audio / verification:** original audio and complete independently verified transcript not obtained in this execution; exact wording, chronology, and mixed-speaker cue attribution remain open.  
+**Public disclosure:** TRANSFERABLE ABSTRACT CONTRIBUTION AND MINIMUM SAFE ROUTING ONLY.
+
+### Canonical derivative
+- `32_CANON_2026-11-18_DECISION_ENVIRONMENT_AGENCY_AND_CONSEQUENCES.md`
+
+Approval adopts the scoped decision-environment, agency/delegation, and consequences/authority contribution. It preserves the five movements as provisional. A stated organizational risk culture is not corroboration of actual response to failure; a contemplated action is not a completed outcome. One conversation remains one source family.
+
+Source identities, private narratives, detailed professional and family material, and exact source-sensitive prompts remain private. Primary-source verification and separate identifying publication permission remain required.

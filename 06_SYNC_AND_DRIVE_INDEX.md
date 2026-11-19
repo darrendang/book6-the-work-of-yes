@@ -1,6 +1,6 @@
 # Book 6 — Sync and Google Drive Index
 
-**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-10-06  
+**Status:** ACTIVE PROJECT CONTROL / UPDATED 2026-11-18  
 **Authority rule:** Memory provides continuity. GitHub determines current state.
 
 This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Codex. It does not itself expand the scope of Book 6 canon, lock a final title, create chapter architecture, authorize publication, or settle Book 6's formal relationship to The Way.
@@ -10,6 +10,8 @@ This file routes Book 6 operators across GitHub, Google Drive, ChatGPT, and Code
 Repository: `darrendang/book6-the-work-of-yes`
 
 Current project operating files:
+
+- `32_CANON_2026-11-18_DECISION_ENVIRONMENT_AGENCY_AND_CONSEQUENCES.md` — approved scoped decision-environment, agency, and consequences contribution; private source capture and gaps recorded
 
 - `31_CANON_2026-10-06_EFFORT_ROLE_AND_INTERVIEW_FOLLOW_UP.md` — canonical scoped effort/role contribution and approval of five private follow-up questions; provisional architecture preserved
 - `27_EDITORIAL_DIRECTION_2026-10-04_WIDER_HUMAN_EXPERIENCE.md` — approved outward narrative direction; architecture remains provisional
@@ -356,3 +358,14 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Approval adopts scoped conceptual learning and the reviewed provisional spine fit; raw evidence remains attributed testimony, not independently corroborated fact.
 - A mirror of control 31 is preserved in `Book6/project-control` under its exact GitHub filename — Drive ID `1r5rMvVtTeeQiubmrHie7CgHksn4S2mO8`. GitHub remains conceptual authority; the private companion governs exact source-sensitive question wording.
 - Primary-audio verification, identifying publication permission, and unresolved source outcomes remain open.
+
+
+## November 18 approved interview contribution and private capture
+
+- Canonical control: `32_CANON_2026-11-18_DECISION_ENVIRONMENT_AGENCY_AND_CONSEQUENCES.md`.
+- Source route: `B6-PS-2026-11-18-01` in the private-source register.
+- Private interview capture: governed `Book6/artifacts` — Drive ID `1AscoVsJYIiNrGo5FQqaf06c0U0WvT9Lz`.
+- Capture contains a detailed digest, selected supplied transcript excerpts, corrections, approval, and later-mining queue. It is a derivative, not a complete exported transcript or recovered audio.
+- Scoped approval covers the decision environment, agency and delegation, and the distinction between accepting consequences and having authority to impose them.
+- Five movements remain provisional. No additional movement, fixed chapter map, identifying publication permission, or central ecosystem adoption is established.
+- A same-scope mirror of control 32 is to be preserved in project-control; GitHub remains conceptual authority. Earlier mirrors retain their recorded coverage and are not assumed refreshed by this addition.
