@@ -368,4 +368,4 @@ No new public Story Cards were created from this source cluster in this canoniza
 - Capture contains a detailed digest, selected supplied transcript excerpts, corrections, approval, and later-mining queue. It is a derivative, not a complete exported transcript or recovered audio.
 - Scoped approval covers the decision environment, agency and delegation, and the distinction between accepting consequences and having authority to impose them.
 - Five movements remain provisional. No additional movement, fixed chapter map, identifying publication permission, or central ecosystem adoption is established.
-- A same-scope mirror of control 32 is to be preserved in project-control; GitHub remains conceptual authority. Earlier mirrors retain their recorded coverage and are not assumed refreshed by this addition.
+- A same-scope mirror of control 32 is preserved in `Book6/project-control` — Drive ID `1MOjyAUYP2rtHbHxsZiPzEby483fvCqT_`; GitHub remains conceptual authority. Earlier mirrors retain their recorded coverage and are not assumed refreshed by this addition.
